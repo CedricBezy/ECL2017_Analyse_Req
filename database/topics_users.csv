@@ -1,0 +1,964 @@
+user_num;top_num;top_title;idactivite;tache
+1;252;orcas island;29702b91-0d4b-4235-90ef-ff26f7a4c7d7;2
+1;253;tooth abscess treatments;97876d31-e882-4f20-8699-77564ac15bce;1
+1;255;teddy bear picnics;e3f67d16-4bdf-4f6d-b1ec-a24f7c288560;1
+1;259;carpenter bee characteristics;9d33ded1-819f-479e-bc73-84034c4cdd77;1
+1;263;evolution theories;b18a7aca-926c-4fcf-ae8e-976576b2574a;1
+1;270;sun tzu quotes;dfb7a8cb-8638-4235-961f-492b42aaba0b;1
+1;271;halloween activities for children / pre-teens;1cd74580-d881-4230-be41-e070ca6b3710;1
+1;273;wilsons desease association;dbfcf2c9-5cca-416d-860d-59d5c0c3b186;1
+1;274;golf schools in (area);0190daff-7c41-4af5-be32-91b548a953c6;1
+1;276;influence of african american music;65f3cdfb-1a25-447a-9459-64f4c4a7107a;1
+1;277;bewitched cast;220eee66-69f3-4215-b7bf-ad6b08d4784a;2
+1;278;neighborhood mister rogers lyrics;901a985d-8b07-461f-8367-9b6dc77d009b;2
+1;282;nasa interplanetary missions;7e3da65b-76fa-46ea-928a-238ca55235e7;2
+1;284;where do morel mushrooms grow;ba849e5d-bbd0-48b5-9b2c-a3ed3e235db4;1
+1;285;magnesium food;c46f8ff4-4b98-4ca6-80e9-d2b1716b3edd;2
+1;286;schizophrenia drugs by stage;28ce70d1-3c1a-42eb-95d8-584b7b60e829;1
+1;287;carotid cavernous fistula treatment;73ee9bb3-4562-414b-95ac-86b86467631d;2
+1;289;yoga benefits kids;23f7d520-2bc8-4729-8915-23b125540efe;2
+1;291;sangre de cristo region destinations;d7b642fc-9f63-49f1-a277-4f40ea380a6b;2
+1;292;electronic health record evolution;c699cae4-acef-4fab-af50-dee0affc47a2;2
+1;293;social networks benefits education;525e7643-d105-47d7-ac06-0f048c3768de;2
+1;296;lead acid batteries recycling centers;dfed1329-f34b-4032-8645-b0530cf64a97;2
+1;297;prevent altitude sickness;7d2588c9-9411-4d89-99a9-ab234fccfc21;2
+1;298;jehovah witness medical practices;50fb57af-0292-4078-8d09-536b1a786fbb;2
+1;300;compute mean set of numbers;5ba40e75-b1df-4eaa-8fe9-c09bf5d9f6a3;2
+10;251;data +spider bites identification;6cd34511-8111-40af-bc60-ed016a9a86a9;1
+10;252;Orcas Island history;a34dc5e2-df09-4757-b4b4-d541d1f1f0c0;2
+10;253;tooth abscess treatments;4a78d334-ef0d-4090-8474-111b84868a77;1
+10;255;tedy bear picnics;fe98f065-b3b8-45f6-97bf-780fbcf468c6;1
+10;259;carpenter bees specification;8d42a169-2b92-4cdb-af96-b31569baee07;1
+10;261;sore throat remedies+soothing;8b73ee0b-e3f8-4bdd-b052-f0138cb4150f;1
+10;263;data evolution theoris;d98da11b-e88f-4501-bacf-a8bf37e50240;1
+10;267;lyrics song feliz navidad;7add5b71-3b6e-43f0-9946-ac3ad02ee168;1
+10;270;Sun Tzu Quote;aecdbe9b-4625-4514-b843-04feb7e84550;1
+10;271;good halloween activities for middle school;b3c7485a-3861-42f7-8be7-0b422f61f0c6;1
+10;273;wilson's disease site;41b2c4b2-30a4-4b32-a15a-6ec38d043a71;1
+10;274;school golf instruction;db2bc308-ae1f-4b78-92e8-36a7c3f3a608;1
+10;276;african american music +history influence;2e8f9824-e4eb-4340-a6ca-f428394b66c6;1
+10;277;cast members+Bewitched;a39d63cb-4fe3-4dc6-ac45-d22117db7527;2
+10;278;mister rogers neighborhood lyrics;778dfa03-56c8-4a75-8ad1-daf1993158e6;2
+10;282;interplanetary missions+nasa;0b1d413f-035c-4456-a204-4aacc07008ca;2
+10;284;place+growing mushrooms;5d5f4c80-6129-4513-9a9f-620711490eb1;1
+10;285;food+rich magnresium;d858b9df-5c24-44d9-ac3e-cf75a963322b;2
+10;286;treat schizophrenia with drugs;8ec8b859-5cf8-44b2-acfa-6a3f970809e6;1
+10;287;treatments+ccft+carotid+cavernous;f243de5e-6597-40be-898e-01f4d4003f1a;2
+10;289;yoga kid + benefits;b7c11ce2-c404-4d5c-b3bf-02c6e2afd1b4;2
+10;291;cities +Sangre de Cristo mountains region;887063e5-7aab-45f1-84b2-6db5bcead799;2
+10;292;eletronic medical record evolution;0dd6b343-3575-4b80-81c8-5d363aa68fac;2
+10;293;social network+educational benefits;c4dd553b-2788-41ec-9d4b-f90666fb9ae4;2
+10;296;place+recycle lead acid batteries;faeafcea-dfa4-4d3b-bf47-93b3a1f93346;2
+10;297;altitude sickness + prevention;cb3f842b-0a37-4bfb-b260-a085f9368e45;2
+10;298;health care practices +Jehibah's Witnesses religion;9feafb0a-a070-4950-94f2-7fc1a4934300;2
+10;300;compute mean in details;e18b5197-30d7-4654-a665-6da96a61f88d;2
+11;201;raspberry pi;ecfb9ef1-4ed4-4ba5-a70b-cfe01a6a8994;1
+11;202;uss carl vinson carrier;33e8627d-2f14-4c2d-9f0f-91ca6b401e8c;1
+11;203;les misérables movie reviews;f81a08ae-1913-4f8e-bd4f-84789b87528d;2
+11;206;pros and cons wind power;aa9731b8-7506-4c05-9e2a-242d5d37434d;2
+11;212;home theater room designs;0f1d73a9-eb84-4b8d-adbf-55e24a0d29d0;1
+11;216;nicolas cage movies;39cfb84b-d2c5-46c6-9871-a4d70ef865a2;2
+11;220;nba all time record holders;e7ae7548-f3b1-4263-8f88-a97eb67e5833;2
+11;221;electoral college 2008 us presidential race results;98fd9aa7-4be8-4a7d-ab3e-d558e608fe72;1
+11;222;signs and symptoms of male menopause;ce23bec7-4595-4d3b-97d2-bcbc0cf39c22;1
+11;225;air jordan black and gold (image-facultatif);2ad374d2-359e-4472-83b7-da31b04deb51;1
+11;226;traverse city michigan attractions;5d311de5-a649-42c0-9cf5-d16604553d21;2
+11;229;beef stroganoff full recipe;a856c2ff-9c31-4440-bfa9-0b497a6bff78;1
+11;235;how to get a ham radio licence;b1d890f1-2c4a-42cc-aeae-2a18f81e8595;1
+11;240;full names us presidents;09c8ddec-a2af-4a37-9c1d-2bfbed7bc9b6;2
+11;241;what is a wiki;2f8498d8-65dc-4efb-adf8-c11ea90a6357;1
+11;242;beans substitute cannelini beans;76d700b9-1146-4cf3-9cd6-59da024d6f59;2
+11;246;civil war battles south carolina;08acca8f-9833-42bc-83ad-f5796755020e;2
+11;247;watch rain man online;0f352e75-40c4-413f-a919-fa5d4e0d1bcf;2
+12;201;raspberry pi;2c4b63dc-6671-4313-b3ac-85ea30632e6d;1
+12;202;USS Carl Vinson homepage;583ca46d-315b-4611-a265-4b28a961cfb6;1
+12;203;les misérables movie reviews;887f47f2-2b05-44bd-9146-aa7d278ef505;2
+12;206;pros cons wind power;02dbde31-c6f4-48c6-90a3-3664b90e3a8f;2
+12;212;home theater design;19292829-465f-47b7-98b4-3c1de7fc8fbb;1
+12;216;nicolas cage filmography;8afd71e2-a734-4268-bbef-2b44fde95272;2
+12;220;nba all-time records holders;719ee6f8-c366-4110-9659-0fb93b70aa26;2
+12;221;electoral college 2008 results;00387877-8170-409c-8ecb-5e81d0f8368e;1
+12;222;male menopause symptoms;0ed655db-5204-42e7-9682-9568dbaa9a8b;1
+12;225;Air Jordan Black and Gold;06a285e2-dbed-4c9e-a33d-c4583c843f25;1
+12;226;attractions traverse city;5675d12d-c696-4fea-bb86-e6e9a2da6edc;2
+12;229;beef stroganoff recipe;21948a05-0074-4c7d-b027-9671053e56f1;1
+12;235;ham radio licence;b7821163-443d-4016-aa24-8e3e01d92588;1
+12;240;us presidents full names;30d5a337-95b4-4f82-9c96-455915a28f1f;2
+12;241;what is a wiki;0b3226f9-d85d-4267-89bc-cdc41880005c;1
+12;242;cannellini beans substitute;7ec4c7d9-e82f-478c-baec-d672ab4c0b90;2
+12;246;south carolina civil war battles;ee56ad90-7e22-4336-a56c-5a31d7f01503;2
+12;247;rain main streaming;6b777563-9059-4191-8eb1-6245ae1070a2;2
+13;201;raspberry pi;03ed4ec0-02c5-4c40-8948-1c64b805225e;1
+13;202;Uss Carl Vinson carrier home page;496e3d11-56e8-48b5-a2e4-cc0f957bbe2d;1
+13;203;"""Les Misérables"" movie reviews";6cee07c1-94e0-4c28-ace1-9b8489e7a1ad;2
+13;206;Wind power pro and cons;8db32018-c66f-44fd-8f9c-9e4bec35b021;2
+13;212;Home theater room design;7ab919ea-fd41-47f0-8f14-493f2b2a6153;1
+13;216;Nicolas Cage filmography;c9eb586d-067e-4819-8eba-f16f97442ac1;2
+13;220;NBA all-time records;04cbcc93-2ecb-4baa-8f31-42650aa3a3cf;2
+13;221;2008 electoral college results us presidential race;d28007ef-f75f-469d-b334-052f006a2320;1
+13;222;Male menopause symptoms;ee36e9f0-48a9-49ec-a3b0-7a33a52726e1;1
+13;225;Air Jordan black and gold picture;557d9c3c-9248-4644-8ca0-0cdaa5eb3617;1
+13;226;Michigan Traverse City attractions;8e4c62a4-2026-4127-8543-4a8d86304b92;2
+13;229;Complete beef stroganoff recipe;812c6d10-2314-41cb-97b0-560ee5b189d3;1
+13;235;Get ham radio license;da5d7173-0acd-4acb-9c08-81732e18c300;1
+13;240;All US presidents names;846f3142-da73-499c-9b43-7d24e0c92ed8;2
+13;241;Definition wiki;2baf2b68-7257-4d11-8f6f-5561387cbb61;1
+13;242;Substituted beans for cannellini beans;00dd5fd3-b58e-4928-8661-6b9e24d59cfd;2
+13;246;civil war battles South Carolina;f40b0320-3b81-43d1-ad66-687ce3f7c44e;2
+13;247;"Watch ""Rain Man"" movie online";042311c7-6f39-452e-81d6-bd2e5144a70c;2
+14;201;raspberry pi;1a00b812-f0bb-4454-a027-e9d84a0a3d72;1
+14;202;uss carl vinson (CVN70);26bb70b3-ea7c-4142-b710-3ed11504ba0c;1
+14;203;"reviews ""Les miserables"".";4ec61522-175d-45f1-9a79-98d68c1d6684;2
+14;206;pros and cons wind power;aa3d4e58-3f6d-4d0f-a128-35c2e8139c68;2
+14;212;home theater room design;1a9df18c-4999-4d58-aa66-298559fdb957;1
+14;216;Nicolas Cage movies;52040099-3f19-4c19-a87d-bea329781d39;2
+14;220;NBA all time record horlders;7769f899-f1ab-4d7a-924b-40087af33713;2
+14;221;electoral college 2008 US presidential;ddee2c80-c583-4c85-ae8e-0f0087d19423;1
+14;222;symptoms male menopause;f31c7679-6b0c-4290-a2a7-9b47d20a3620;1
+14;225;Air Jordan Black and Gold;33fd9c6c-665e-4d07-a022-26f69294b83f;1
+14;226;attractions Traverse City, Michigan;5e5c3e8b-bcfd-475f-bc5b-180268767d64;2
+14;229;beef stroganoff complete recipe;170e1581-14e8-4bb0-96d2-3b27c0a79649;1
+14;235;ham radio license requirements;9b13871b-ca6b-48e9-8444-0ca3e423bea4;1
+14;240;US presidents;79c4ccfb-08e0-44fd-8c97-f64b1601876a;2
+14;241;wiki animal;e5e1bcd4-25b7-4116-8e43-791fc764d7d8;1
+14;242;substitute for cannellini beans;ff0e510d-ef6f-414e-af36-e1b9e1f8a756;2
+14;246;civil war battles South Carolina;2accd658-9e98-47b7-8ae0-c79e991a3bf3;2
+14;247;"""Rain Main"" free streaming";9ca08249-bc77-4b96-b7f8-521a5a3d40f7;2
+15;201;raspberry pi;856bf439-c100-451d-8645-740c419791b6;1
+15;202;USS Carl Vinson (CVN70) carrier;b21b719b-a9c5-415c-9eba-d002e585d8c6;1
+15;203;Les Miserables reviews;64242e55-aeff-424b-a5b3-e8b1c3e808be;2
+15;206;wind power;07f9cdf6-cfbb-468a-b377-92763dd2ef4d;2
+15;212;theater room design;16f6f3a1-051c-4cf5-b484-c3832a8627fb;1
+15;216;nicolas cage movies;1322c82a-eeed-403e-8ea6-b830dbdd25ff;2
+15;220;NBA all-time records;9d854262-c0cf-41c0-bc56-2cff13d8a445;2
+15;221;electoral college for the 2008 US presidential race;aaad56f4-38ed-4fc3-8c9a-9e9cd3549872;1
+15;222;male menopause symptoms;45de4d92-e862-4bf5-8f57-2b1dee9d5bbc;1
+15;225;Air Jordan Black and Gold;2deb1842-bd6d-4135-a85b-c6b7c87a2001;1
+15;226;attractions in Traverse City;b78dcbcb-5948-4ba0-81ba-d6b3cca10f73;2
+15;229;beef stroganoff full recipe;d7031988-361f-4f53-a19f-249198d7c1ee;1
+15;235;How do you get a ham radio license;b01f8341-562f-479a-b684-1c7746a090f8;1
+15;240;US presidents;dccecb65-1648-4929-9e47-726d8aa2119e;2
+15;241;what is a wiki;e8b41611-e132-4bef-8534-09cc2c278d15;1
+15;242;substitute cannellini beans;943276d4-a1f9-463d-b8e1-fde0d44627c1;2
+15;246;south carolina battles;58974e96-a99d-4d5e-8abb-b55870df20a9;2
+15;247;rain man online;00726850-bb69-4003-ab3a-4442fede1fba;2
+16;201;rasperry pi;15544deb-6ff0-4d51-86be-3b1842335ba6;1
+16;202;uss carl vinson page;1599a2c4-97b2-475e-947e-c7b82d1e9e86;1
+16;203;Les Misérables;a98111c2-908a-4f90-8d45-d0bc2e4a40ed;2
+16;206;pros and cons wind power;31f68efe-32e2-48fa-ae9d-f9d2d1cc28ce;2
+16;212;home theater room design;cd8a7fa7-592b-4c0f-b791-2044ed5b6f5c;1
+16;216;Nicolas Cage filmography;b05581ce-1f3b-49bf-abaa-b30380e4b1ac;2
+16;220;NBA all-time record holders;9a0f8c4a-1881-483c-957b-def2066658f2;2
+16;221;electoral college 2008 us presidential results;e35d7920-f06c-4470-bf2d-c400c57580c3;1
+16;222;male menopause symptoms;90f91597-cdf5-4a80-972d-cdab2c065ad7;1
+16;225;black and gold air jordan;da49f420-a6f7-4fce-b30b-b634932b7910;1
+16;226;Attractions in Traverse City Michigan;1a2a5a5a-0ac3-444a-a306-281ab1fe6c8d;2
+16;229;Beef stroganoff complete recipe;59b6251b-6a2e-4556-98c0-6dc5657e2c93;1
+16;235;how to get a ham radio license;c003e2a1-ea45-4be6-9aac-a0e581f327ab;1
+16;240;US presidents;b2fd330a-f242-4d4d-a948-4c29b9649453;2
+16;241;what is wiki;3235a4ed-9840-4573-badb-b47e06b0dc58;1
+16;242;which beans can be substituted for cannellini beans;5c69fab6-9eb4-4f01-b4d8-3a070dbd3716;2
+16;246;civil war battles in south carolina;b2c9f31b-c763-42cb-a313-d3042927fa93;2
+16;247;Rain Man streaming;024a52c4-c277-409d-b671-4043aaf3d862;2
+17;201;raspberry pi;ba5a8ec6-39e7-440e-807d-78c724a42f4b;1
+17;202;carl vinson uss;e3846410-14e2-4894-91c0-158c0381e9db;1
+17;203;movie review les miserables;034b4bcc-91f3-4f3e-94fd-329e78f6604a;2
+17;206;wind power pros and cons;80e7f25c-7153-4636-a6e5-a2f5d779402a;2
+17;212;theater systems;266a9beb-8d73-4191-af38-c5cee807ce1f;1
+17;216;movies nicolas cage;4cd941ac-7ac7-4e4d-b050-1f2735d34cec;2
+17;220;NBA record holders;076c7fc8-9c57-4c29-8f8c-c76f50348b38;2
+17;221;results 2008 presidential electoral college;c7f697ee-1a05-427b-a0e1-55674ce4f3c2;1
+17;222;symptoms male menopause;0de7e036-bb2d-4f0a-bc08-917e9eee7345;1
+17;225;air jordan black and gold;f17beb53-5da3-45fc-bde7-d688658437d8;1
+17;226;traverse city michigan attractions;aa83ebc2-06e1-49a5-bf86-2ad74a9f24c8;2
+17;229;recipes beef stroganoff;58ec5c14-dc3b-4133-92cc-6a871c1c853d;1
+17;235;ham radio license;df640189-0d88-40e6-9ca3-70221b251cc3;1
+17;240;US presidents;22b0f6c7-0de9-48b6-81f9-1dab682d751b;2
+17;241;what is a wiki site;065f9ede-da69-48cd-ae46-00fe1900bcfa;1
+17;242;cannellini beans;7314fbf2-7a71-4a3f-a37a-65a2481409f9;2
+17;246;civil war battles south carolina;0a0eaec9-920a-4083-8a59-01c1ba162ad5;2
+17;247;Rain main streaming;95927afc-803c-4d3c-a984-9b27e265222e;2
+2;251;how to identify spider bites;3b258fff-1e35-4061-b3ad-ac647c7dce9e;1
+2;252;history Orcas Island;151ad1a5-82ec-410e-9340-1dcf2179ca4c;2
+2;253;treatments tooth abbscess;bce00feb-a0e9-4b7f-bde5-689a780cff36;1
+2;255;teddy bears picnics;54991f1f-0284-4d83-8482-06d951ca2c7a;1
+2;259;difference carpenter bee;b219cb60-d9a6-4077-8bae-5aa802bff145;1
+2;261;soothing sore throat;4c79b68b-3808-46e9-855a-1ffe253df214;1
+2;263;scientific theories evolution;3ff249ad-71ab-4706-83d8-188ed0ade7cf;1
+2;267;feliz navidad lyrics;61261752-2eb0-4b36-85d4-60419851a2e2;1
+2;270;sun tzu quotes;c7fcaf0d-b18a-461a-af05-ab068b0d17ef;1
+2;271;halloween activities for middle school children;8198efa5-584d-4ade-a3a3-ed7c4fb5dea7;1
+2;273;Wilson Disease Association;9b7c3950-723b-411e-81e6-7fe8059a7d61;1
+2;274;golf schools;40fb3fb8-9a07-40b2-924d-ed08c6d6f6e0;1
+2;276;history influence of african american music;832a7166-9cf3-4b0e-8881-88f22b72fc97;1
+2;277;cast show bewitched;696dab9c-ad21-48ad-b356-e3d59faa9711;2
+2;278;lyrics theme song mister roger neighborhood;7d3009a4-a2a5-4fa0-ba15-f91284cf60c9;2
+2;282;interplanetary nasa mission;de6babec-2257-4ab8-bf2e-6a8dfa081000;2
+2;284;where morel mushrooms grow;56f55181-91b4-431c-abf5-d14c15254616;1
+2;285;magnesium rich food;071abcb9-1297-461a-8df4-de2f4d141dba;2
+2;286;common treatment schizophrenia;dc33824c-88a0-4bc8-8f00-2f1679788f09;1
+2;287;treatment carotid cavernous fistula;53249ae1-3c3e-41b7-aa44-a1135646196a;2
+2;289;yoga benefit kid;3725a383-6ad4-43d6-8013-f388a7f5b99b;2
+2;291;cities of Sangre de Cristo region;7251325e-0ffd-4ded-b7f8-62ed15f7f9aa;2
+2;292;electronic health record evolution;20885868-b1ef-4acd-8031-8e43811efb21;2
+2;293;education benefit social network site;533e76c6-8b92-4c7d-bc75-0f36c66f0c5c;2
+2;296;where to recycle lead acid batteries;6f9fa3c5-c410-4e6d-8a40-8868f1e9341b;2
+2;297;prevent altitude sickness;f1f7bf22-19a3-4c74-a286-884b8ee7199c;2
+2;298;health practices jehovah witnesses;b772740a-19a2-4c83-98be-826a0af40058;2
+2;300;how to calculate mean;dd76ec82-d068-405b-bf36-9ba0c3d52f21;2
+21;251;identify spider bites;ee51a2ab-6e94-447f-9f7c-176744a90a3f;1
+21;252;orcas island history;7e50991e-c538-4b3d-8578-22abb3b4e104;2
+21;253;treatments for tooth abscess;077590cf-2f8b-4b08-a8c5-f4657d65e6bd;1
+21;255;teddy bear picnics;7cbb27e5-94dc-4b20-840a-673463504e91;1
+21;259;characteristics of carpenter bees;2095b0da-16f6-45cc-811d-73ad0b790f29;1
+21;261;sore throat natural remedies;62a76f6a-2da1-4d89-85e3-fd797ea2c593;1
+21;263;evolution theories;9da4cf0c-8ca8-4cc3-8b58-3d19874454fa;1
+21;267;feliz navidad lyrics;854bcebf-9221-4bf9-ae25-cf77489b9a4e;1
+21;270;sun tzu quotes;788bb8e2-3772-4373-81b1-7d29e6134c59;1
+21;271;halloween activities for middle school children;cdbcc732-b7a4-437d-9445-0c987f55bea9;1
+21;273;wilson's desease association web site;e6badf83-7a8f-49e2-a1ef-3b8ee426c7f7;1
+21;274;golf schools (city);d77bb1ef-bc04-47af-bca0-d03ce8627abb;1
+21;276;african american music influence on history;41131a6b-5d6e-4b71-86f5-d9fef55a7567;1
+21;277;Bewitched series cast;2ee7fd61-ec51-443b-916f-b47a752416e5;2
+21;278;Mister Rogers song lyrics;373f015c-0ece-4f3f-a766-9cc938e480c3;2
+21;282;NASA interplanetary missions;28350d5e-4a12-4b11-904c-48e6198a9ed3;2
+21;284;best places to find morel mushrooms in its natural habitat;521eec87-4b1d-408d-af7f-eed8904ea423;1
+21;285;foods rich in magnesium;66ebd284-934e-49f1-8987-3fc01e55b186;2
+21;286;common drugs for schizophrenia stages;432114d3-82a8-491f-9706-b3a752496f06;1
+21;287;carotid cavernous fistula treatments;e79533a5-b988-4ed7-a43d-4988de42a882;2
+21;289;yoga benefits for kids;0dcd21c7-ac26-4f17-b968-e88b75977c8d;2
+21;291;Sangre de Cristo mountains destinations;73bcd053-2410-442a-b5fe-dd9df6139f00;2
+21;292;electronic medical record evolution;b9a5afe6-42ee-41a7-96b4-40ba897b6547;2
+21;293;social networking sites educational benefits;b4ef9e4e-1473-43bb-a7e8-00aa5d7c5d42;2
+21;296;places to recycle lead acid batteries;f8b9cf02-0de7-43d2-b789-6b3f9a564c49;2
+21;297;prevent altitude sickness;41b40e20-ef5a-485a-b9ab-c10a72f5892b;2
+21;298;medical practices for Jehova's Witnesses religion;631631a6-1d86-4125-997a-60a675e655c5;2
+21;300;compute the mean value of a set of numbers;d953232d-b249-471d-b7f6-85430bb54154;2
+22;251;caracteristics spider bites;7cfb8fc5-58dc-401e-849a-6b37f746df52;1
+22;252;Orcas Island;6e8c0a4f-8140-4e79-9da9-593d5ff7692e;2
+22;253;treatments tooth abscess;414672d2-61cc-471b-8413-5df38cd91957;1
+22;255;teddy bear picnic;b67703e1-6006-4beb-8d04-794421b254db;1
+22;259;carpenter bee;82324e48-f58f-4a9e-9792-1abbeb7301ee;1
+22;261;folk treatments sore throat;9f4df4d1-1710-4c5e-8170-2309bda2aa44;1
+22;263;scientific theories world evolution;b5d40b08-fb51-42bd-836d-f76c7a9f3e5a;1
+22;267;lyrics song feliz navidad;a64561aa-eded-409b-b7e3-ebec81701468;1
+22;270;quotes sun tzu;6133ea3b-2de8-4d30-b4e3-8aadc73aac03;1
+22;271;halloween activities children;3de8c0be-3032-4ef0-94b6-db647339e201;1
+22;273;Wilson Disease Association;a2d20530-8f89-47c7-a3b3-2ce2477fc6af;1
+22;274;golf instruction;2a90bb45-de06-41f4-897e-e337858b6a46;1
+22;276;African American music influence;b0647e83-f373-46b7-991f-cd6359482feb;1
+22;277;casting Betwitched show;ac89468a-968f-4176-b611-194293e147ad;2
+22;278;lyrics Mister Rogers| Neighborhood;ec5e49d0-959d-4aed-9008-83188f133490;2
+22;282;nasa missions;4bdcf714-50d5-4cf8-8e1c-3b7b62ae9c52;2
+22;284;places morel mushrooms grow;8fe20d68-b00a-438f-b131-868f87a48f3f;1
+22;285;food rich magnesium;7688d2d0-f96c-4188-8aec-e1c9d536f87e;2
+22;286;drugs treating schizophrenia;a3ee6b7c-23d9-40d8-865a-67711965032f;1
+22;287;treatement carotid cavernous fistula;f4dc771d-29b2-45a0-bec7-06803de58e21;2
+22;289;benefits yoga kids;fcca75af-5323-4b72-8891-753052c17078;2
+22;291;destinations sangre de cristo mountains;f21dd822-28b4-4a60-ab27-2582980c96c6;2
+22;292;evolution electronic health medical record;b4f1ed72-a7cb-43df-9d24-47b64a9f034d;2
+22;293;benefits education social networks;119a7ecf-27cd-4902-bf57-a960bba87cc1;2
+22;296;recycle home acid batteries;3cbdeebb-dd1b-4267-90e1-e492f65c5d05;2
+22;297;prevent altitude sickness;c9abd369-cf9a-42d4-ab34-f50466b081b4;2
+22;298;health behavior Jehovah Witnesses;3bddf0ba-bd67-49ce-8640-0503e0984733;2
+22;300;compute mean numbers;939a5b3a-beae-46d5-aed0-4f6791e8741f;2
+23;251;spider bites;52958212-8f13-4bed-8921-1cbbd76c7053;1
+23;252;Orcas Island;b5c58f94-33c9-4def-ac2e-d9e6191449df;2
+23;253;treatments tooth abscess;aa245e1b-3d50-4966-bf83-86fd895379f9;1
+23;255;teddy bears picnics;f5aef49c-9071-44d4-98bf-5706c936d766;1
+23;259;carpenter bee differences;4e891c9d-f771-4f21-9014-be64d9aa7cc8;1
+23;261;remedies sore throat;dacbca2e-9025-4367-819b-1ada1cce8337;1
+23;263;theories of evolution;ab14a7e5-8763-431d-b871-985e5f8c40be;1
+23;267;feliz navidad song lyrics;7c140167-ad5e-4b05-8f7f-7495a3cc715f;1
+23;270;sun tzu quotes;3595d4f2-2692-4a84-8038-cdd409ff7b28;1
+23;271;hallowen activities for children;6e3040d2-2db8-414b-971d-0f3445c31831;1
+23;273;wilson disease association;9b7d7e2f-fcce-4814-b3fa-3a5a0f178bd6;1
+23;274;golf school;11801c62-dee0-4b6c-bad4-2164de071e7b;1
+23;276;african and american music influence history;fa890177-aea2-4a55-8af7-41ff5a5be199;1
+23;277;bewitched cast members;a7ecd70d-e732-4c85-9b2e-19b34ccc1ced;2
+23;278;mister rogers neighborhood lyrics;471388ca-9204-433d-b6d9-1f0bf33b492d;2
+23;282;interplanetary Nasa missions;69aa8e08-6c3a-4e6d-9fd4-46a555c84057;2
+23;284;morel mushrooms places;34dbc768-63c3-4e89-b09c-39a0d28537b2;1
+23;285;magnesium in food;b107b818-0b50-4a14-83e5-8d025653c03a;2
+23;286;drugs schizophrenia;d6a3ae34-61b2-4527-b6d0-5c16a24f3681;1
+23;287;CCFT treatments;e2427e2b-6723-4b00-9f84-d35f30c66e78;2
+23;289;benefits of yoga for kids;6ceedfb9-62f6-4e0c-878c-0439ceba3325;2
+23;291;Sangre de cristo destinations;7d190b58-648b-4934-8dbf-ac2eb1b624d9;2
+23;292;electronic medical record evolution;32a4086c-25aa-4485-9ca8-adac68fe4b0f;2
+23;293;educational benefits of social network;bd365aa2-7fa9-4120-9940-d73a0c75b9bb;2
+23;296;lead acide batteries recycling;dc51f053-bcb4-44e5-abf0-004085370f0b;2
+23;297;prevention of altitude sickness;7579057f-92b8-4420-af36-ae9a05e8398f;2
+23;298;medical practices of Jehovahs Witnesses;8826b1d9-a89b-40bc-b766-b0bd6c5e9022;2
+23;300;compute mean;33a565e2-fae9-446a-be2c-292a3d148f8d;2
+24;251;indentifying spider bites information;4d4b6ca0-a485-4dfa-94b1-26ff6f45441f;1
+24;252;orcas island historical information;533878e7-be6f-4492-83eb-26a0ca23b095;2
+24;253;tooth abscess treatment;119d5a6f-3d55-4f73-addc-f76d67013582;1
+24;255;teddy bears picnics;020fdbf9-5c48-4ab3-9543-7235afef0695;1
+24;259;differencing carpenter bee from other bees;f02f06d5-165d-4e29-969c-9bba74821ec8;1
+24;261;fols remedies for sore throat;7879c7db-9c0e-451c-b88c-8f9adfd4b9a0;1
+24;263;current scientific theories of evolution;61a4ac8e-0ba5-4b0c-ad5a-8170cc2d7f5d;1
+24;267;feliz navidad song lyrics;488aae64-6387-4ba7-86a7-6b31cf0531ab;1
+24;270;sun tzu's quotes;f4e72822-a810-49c4-8b34-d6ed58128624;1
+24;271;halloween activities for middle-school-aged children;c2e621ca-8348-4aa3-907e-03e51fd65f6b;1
+24;273;wilsons disease association;89c36961-915b-4ee5-9403-716b1ecf08e8;1
+24;274;GOLF SCHOOLS;0545ce01-f3ee-4e70-9b5a-5e8ead5b4aa7;1
+24;276;influence of african american music in history;3cb66b75-b56e-4e79-9c1c-c7838bb17433;1
+24;277;cast members Bewitched;c7b59c16-5015-4698-899a-5878c5084e56;2
+24;278;Mister Rogers| Neighborhood song lyrics;7d006fd9-026e-4bcf-a287-36edd92a8ba8;2
+24;282;interplanetary missions NASA;24ad21ad-a10d-4ea6-a07e-82b2baeede0f;2
+24;284;growing places of morel mushrooms;0651620a-8d01-46e2-aa68-28c68ff00393;1
+24;285;foods rich in magnesium;35c2de22-6c98-4894-acdb-bb6fa4f592db;2
+24;286;different stages schizophrenia drugs;4efb559c-2afc-43d2-b6bb-2345d5295697;1
+24;287;CCFT treatments;2238be72-02bc-4b24-94e1-249a5de92c00;2
+24;289;benefits of yoga on kids;e080b4dd-fb81-41fb-99f2-a068667e1c96;2
+24;291;destination within sangre de cristo mountains region;0bdc3d6b-85d0-4b1f-97f2-57565cd4dc38;2
+24;292;evolution of electronic medical record;d78cff6a-ce86-45ff-b942-98f87899be91;2
+24;293;benefits of social networking sites;9db3fe82-90b7-4203-bd6e-68862e17fd9f;2
+24;296;where recycling lead acid batteries;0129fdb9-aa43-4de1-94c4-630e7fd8bcf7;2
+24;297;altitude sickness;fbd2b505-fac5-46e2-a7fe-fe9adaf4edf3;2
+24;298;jehovas witnesses religion health care;d42bc734-afc9-49d4-8f88-f2cf90008487;2
+24;300;compute the mean of a set of numbers;46d2c91a-a871-4187-acc0-6d03e03dbbe0;2
+25;251;detect spider bites;7dc63589-c75b-4f29-98d2-947a44398730;1
+25;252;orcas island history;96d0e4c5-2198-4429-974e-b7403960455e;2
+25;253;tooth abscess treatment;12e7ab00-87fc-469d-b188-fbef5cf4719b;1
+25;255;teddy bear picnics;3cfd3e89-5ba9-4232-a3d5-24643b6cf4ae;1
+25;259;difference carpenter bees;0661ef3c-9570-42cf-8905-ffcf29cc9010;1
+25;261;common remedies sore throat;24707eb0-bdf6-4bd2-9d56-427b24703df2;1
+25;263;theories and data on evolution;bd740cab-a8d3-4ccd-989d-00596e895bc0;1
+25;267;lyrics feliz navidad;f70129a9-cb64-4921-b96e-2278db9927d3;1
+25;270;sun tzu quotes;11204aac-9928-4f4d-836d-f45635de2944;1
+25;271;halloween middle school activities;21ea7774-e039-43e7-9c05-ee7dc9cb0d0d;1
+25;273;wilson disease association;92c6bd5e-83df-464e-a381-f960689781fa;1
+25;274;golf schools;6a3a4029-257b-4535-96ed-4caba6c8a6b0;1
+25;276;influence of african american music;54f799ba-a986-4390-9015-bb2898086bfa;1
+25;277;bewitched cast;e5a9ec7d-7636-4587-97ff-142be95d25ce;2
+25;278;Mister Rogers Neighborhood lyrics;833a019d-ceb4-4700-8ef2-4e9d0895ca7f;2
+25;282;interplanetary nasa missions;034a4491-75ee-4580-9e18-2534947dd580;2
+25;284;find morel mushrooms growing;ac83f697-1d75-40fa-9d09-71ffd340cf66;1
+25;285;food rich in magnesium;f73c9d55-fbb2-45f7-8e0f-416ea1b03c0e;2
+25;286;commun drugs to treat schizophrenia;7e3af648-40b6-4fe0-a10e-9a3c6c923b20;1
+25;287;treatments carotid cavernous fistula;40ecdea1-96ea-47eb-ad34-d4a816be1453;2
+25;289;yoga for kids benefits;714a60e5-7bbb-4e51-a80b-7d9ae33c32aa;2
+25;291;sangre de cristo mountains region destinations;f5a234ac-209e-430b-9d96-a3e9a75a1fef;2
+25;292;electronic medical record evolution;27a91d2c-a514-492a-ba3b-f1c26a53fe9f;2
+25;293;socian network sites educational benefits;75042010-9a51-4009-b9b4-6c88d3051a83;2
+25;296;recycle lead acid batteries;803361bf-10d6-4dfd-9414-26a5583020cb;2
+25;297;prevent altitude sickness;0a184c9c-7d1b-434e-ad13-a53a76d575a9;2
+25;298;medical practice jehovah members;069e42ce-c9f8-489a-aacc-b7776b4ee238;2
+25;300;compute the mean of numbers;3e1ff557-1890-44c1-b8fe-59b943031bb0;2
+26;251;finding spider bites;7ca5708e-3002-4470-81d8-43e022e9aabd;1
+26;252;What is Orcas Island;020dc8b8-bf6b-4936-b38e-a88dfdf26a56;2
+26;253;tooth abscess treatments;3932c4ae-8d39-4fc5-9233-3a5cf49d137c;1
+26;255;teddy bear picnics;97dbef7d-82f4-4c06-9263-53b5e0524607;1
+26;259;carpenter bee differences;afd5877a-74b1-4d54-b7f5-c139a6976cec;1
+26;261;fold remedies used for sore throats;dd22d0fd-0188-4bc0-beb2-978697c531dd;1
+26;263;theories on evolution;5fc1bee0-2e25-49d4-9390-5b065ff49005;1
+26;267;navidad lyrics;963735f6-4d6f-4c00-b102-61bfb31d0847;1
+26;270;Sun Tzu quotes;7bbabebf-1836-43e0-9b42-de17991e73b0;1
+26;271;halloween activities for kids;053fb7bf-a6c2-42e9-a830-69bf90566ca5;1
+26;273;wilson disease;c58e400c-47dd-44f2-841e-9be9b85408b2;1
+26;274;gold schools;f5366959-6fdb-4151-8ed4-46451e37ead3;1
+26;276;african american music influence on history and cultural history;34979f02-7e3d-4e46-bd86-2a7e1092d0fd;1
+26;277;Bewitched cast;0e81d232-ee34-44a9-a0b3-fd0535f0d8af;2
+26;278;Mister Rogers lyrics;f5c569e5-93fc-4ecb-bd86-4dda1620273d;2
+26;282;NASA interplanetary missions;c4ea8f86-f088-489f-9d87-595997d3d3be;2
+26;284;finding morel mushrooms;2ad1878d-177e-4588-9feb-ed9d7a0f5c8c;1
+26;285;magnesium rich foods;cc33f87e-ab08-4f06-afd0-2b27e10207e9;2
+26;286;schizophrenia drug treatments;a6a8dca9-77b7-4932-aeb7-4188f3d297c0;1
+26;287;What is CCF carotid cavernous fistula;d5435bd7-97a9-44bd-98f7-9224044c1edf;2
+26;289;Benefits of yoga on kids;33c8535f-96a2-48f8-ba3c-bba2bf472fa8;2
+26;291;Sangre de Cristo mountains;467dac68-b3cc-446e-ad7b-01e83c0231bb;2
+26;292;electronic medical record;d03a4825-8796-48b7-98d5-be3f84cb3070;2
+26;293;Social networking educational benefits;a57e410a-4d9c-4487-bad7-c3ef434cdc38;2
+26;296;recycling lead acid batteries;46ab38c4-0f12-4073-a368-d32b82cfc055;2
+26;297;Prevent altitude sickness;726ee1d9-f582-42b4-a213-a0f81c62e78f;2
+26;298;Jehovah's Witnesses health care;b269ef41-290c-4c41-92da-c04b4b6eb280;2
+26;300;the mean of a set of numbers;c1ce0008-1f4c-41e9-b947-b0900c451b12;2
+27;251;how to identify spider bites;bfcc802e-3d74-4e31-9bdf-cc5e28e35f2b;1
+27;252;Orcas Island;b2e16b8e-9ae9-41fb-99db-72815661feb5;2
+27;253;tooth abscess treatments;471f0c72-eb8e-4d57-86ff-75581fd6d14c;1
+27;255;teddy bear picnics;2cc2110d-b6ef-4534-b3f1-990c7faddf53;1
+27;259;how to identify carpenter bees;aca8abba-1333-4eee-84de-338233086196;1
+27;261;Sore throat folk remedies;19c557df-326b-42a9-8bea-bdb43ac392f9;1
+27;263;evolution proof;4c476fc3-255f-467c-acf3-084523acee75;1
+27;267;feliz navidad lyrics;343648dd-509a-4b17-8b45-5f3ef9565a42;1
+27;270;sun tzu quotes;12157e81-20d1-4ea3-8441-58f9155eece2;1
+27;271;middle schools halloween activities;9acddca5-d89b-4aa6-a9cc-2abaa62423dd;1
+27;273;Wilson's disease association;a7ef2417-f5dd-4572-9784-1e1928422bff;1
+27;274;golf schools;66cf1225-f717-4ab3-9173-199f34100504;1
+27;276;african america music influence in history;daacefb8-073f-4350-8fdf-139ce79794da;1
+27;277;Bewitched;5fd30366-dcc7-4a22-a380-5c485b61fac0;2
+27;278;Mister Rogers' Neighborhood lyrics;addf60c3-dc37-4ccb-a24e-0a404cb8c07e;2
+27;282;NASA actual and future interplanetary missions;d824cc28-5608-4d24-a869-f79b6e8930ee;2
+27;284;best places to see morel mushrooms growing;b5147e9d-ca71-46d9-8d14-680c0555f087;1
+27;285;rich in magnesium food;44e4ca3b-a5e3-403b-be73-a7cf14018ee1;2
+27;286;schizophrenia common treatment;572a2e09-212a-4427-93b5-885a42be8b65;1
+27;287;CCFT treatments;b4bd39ed-0873-49e8-afeb-77df31e44d04;2
+27;289;benefits of yoga for kids;8c1e6ccd-413b-45b1-9803-01be55b4904e;2
+27;291;Destinations around Sangre de Cristo mountains;d171aafa-003f-4dae-a2b8-b0d4ed341ba4;2
+27;292;Evolution of electronic health record;f1e609f2-695c-4a48-84f6-8b70547adb7e;2
+27;293;Educational benefits of social networks;140e4cd6-7b3a-4a58-89a9-a7bb4b4f968d;2
+27;296;recycle lead acid batteries;e0e43c94-1198-4d76-95b3-96cb03e9494e;2
+27;297;How to prevent altitude sickness;90f695d5-da45-4472-a03b-131a15d139c6;2
+27;298;medical practices Jehovah's witnesses;c450945d-fe7f-42dd-84a9-cb71ec5c4731;2
+27;300;how to compute the mean of a set of numbers;f847252d-509b-4f53-b885-d6bd3114bf0b;2
+28;251;spider bites;35f48416-5d41-41eb-b03a-290497bac46d;1
+28;252;Orcas island;b1c046cc-8408-49a2-b246-613bfc2fd547;2
+28;253;treatments tooth abscess;85d31d4e-8f21-41ff-a540-03994169a745;1
+28;255;teddy bear picnics;ec0c8f1e-1e8e-42b9-8ab9-76e04011ef78;1
+28;259;differences between bees and carpenter bees;baa1ed70-371c-4b7b-b01f-9f7e7ad4cf0b;1
+28;261;remedies sore throat;2b1752b9-c273-442b-8766-abd11ec88bb5;1
+28;263;current scientific theories of data evolution;c5112fe6-3313-4032-90da-ad5f59d378a9;1
+28;267;lyrics feliz navidad;b8087525-5dd6-4765-a07c-a9473aee285f;1
+28;270;quotes sun tzu;7c29d936-dcd7-475d-9f47-546a6b389b56;1
+28;271;halloween activites for school;8657a17f-2248-4102-8ae9-d402d74cc24d;1
+28;273;Wilson disease association;d0a3a339-a6a1-40e8-be51-b5b15e422f9d;1
+28;274;golf schools;4380cc72-f65e-41f3-b85e-2709cb447c24;1
+28;276;influence african american music history;42cefa22-338e-4fde-8f9b-9f0c7678eb75;1
+28;277;cast members Bewitched tv show;176e7f5c-3eba-44a0-a9a3-e76e4194a2ef;2
+28;278;mister rogers neighborhood lyrics;ebb0d688-b52b-424f-8fdc-dcd4516a50c2;2
+28;282;interplanetary missions NASA;974aa2ef-62ac-49d9-8220-c6be59163db3;2
+28;284;where can we find morel mushrooms;efeb82af-753d-41cc-9ced-492490c88457;1
+28;285;foods riche in magnesium;91d73fcb-b176-464d-815f-bf7e01a4820a;2
+28;286;drugs used to treat schizophrenia;0b190477-eb6a-404d-80a6-4c35b6adb580;1
+28;287;treatments carotid cavernous fistula;bb04cdc3-b1ce-42c4-bfcc-860efed009a4;2
+28;289;benefits of yoga for kids;ffdd6a2b-4890-4eaf-9a2a-23b890c56e24;2
+28;291;cities sangre de cristo moutains;55334b96-f664-4b0e-9c77-6fb451a7bb8c;2
+28;292;evolution electronic medical record;677e59f6-5791-4bfd-81b1-646a3715c17d;2
+28;293;educational benefits social networking;57b1d345-7c3b-4e6a-9334-5591b45e32dd;2
+28;296;Recycling lead acid batteries;c973c122-9762-4c65-b010-00f28471962d;2
+28;297;altitude sickness;f7aa9f90-cd5f-42c6-9745-6d8f42197f3b;2
+28;298;medical practices Jehovah's Witnesses;c4f91948-8407-477f-a4ed-132eedf11d62;2
+28;300;how to compute the mean of a set of numbers;e6b559e2-92db-4bcd-bc55-a554a860a5ed;2
+29;251;identifying spide bites;148decd8-7086-41e0-9282-05918bc5150d;1
+29;252;Orcas Island;71993572-f5b2-4b45-aba2-68098a93c51c;2
+29;253;tooth abscess treatments;7f7705e4-da0c-4b92-be54-70e13814720d;1
+29;255;teddy bears picnics;bea7ff24-4a52-412c-ad5f-35915fc292df;1
+29;259;identify carpenter bee;41e771e4-54f2-4779-8821-0512d9d99670;1
+29;261;soothing a sore throat;9b85bb71-5341-42f8-9939-9a61ba9e43f3;1
+29;263;theories of data on evolution;9b00e59d-515e-437d-9d7f-273fe7c7170c;1
+29;267;feliz navidad lyrics;35d39a19-fb9f-4ae0-80a8-b3c83d115d61;1
+29;270;sun tzu quotes;2c22f973-135b-4aae-a2c4-2b2836720b2c;1
+29;271;Halloween activities 12 years;deb52282-6e74-4db6-8f60-8425dc507969;1
+29;273;wilson's diseas association;d7a64564-4713-4605-8e05-3d837788d27d;1
+29;274;golf schools;5462592b-44ec-4a5d-bfb2-695b35df4401;1
+29;276;influence of african american music;ad18b6cb-ff33-42f1-9a78-2419897df34b;1
+29;277;name cast members bewitched;4aa04e3a-ad1c-4f93-bb22-3074ac196725;2
+29;278;lyrics Mister Rogers| Neighborhood theme song;2a39bcfa-b244-4a76-99ba-a0dee1799553;2
+29;282;NASA interplanetary mission;8052003e-6e9b-4512-8bb4-1715ed713b98;2
+29;284;places morel mushrooms;a3b72ef9-b251-44d6-97c3-123884c0e2aa;1
+29;285;food rich in magnesium;a0d2c9f7-8a0d-438a-9f20-0568621eee03;2
+29;286;drug treatments schizophrenia;f7fb0a67-dd91-4758-8ec2-4095fdb4e4f5;1
+29;287;carotid cavernous fistula;42447601-1952-4bdc-878f-8f869d420c9f;2
+29;289;benefits yoga kids;cedf87a0-e81b-4a1b-b88a-728b280ad3c1;2
+29;291;Sangre de cristo mountains;e3468aad-8fd6-4979-b29d-ed19b7f04214;2
+29;292;evolution of electronic medical record;09ddb7e8-e8d3-4b2b-aaf9-02e42fbb3749;2
+29;293;benefits of social network;574563c6-57be-49ba-a1ea-af2c7d8db738;2
+29;296;where to recycle lead acid batteries;ca955ae2-4702-491f-8266-703cf6a2de21;2
+29;297;prevent altitude sickness;27417018-9d75-4d1e-b928-72263e1928af;2
+29;298;medical practices jehovah;e6fac3ae-0272-4af3-b781-9d0ae7bb5980;2
+29;300;calculate the mean of numbers;f61e6d4d-514b-4eea-811a-705758d768b4;2
+3;251;indentify spider bites;86c24a2d-a9e7-485b-8535-4c993db2276c;1
+3;252;orcas island history;1c20a828-d6f0-460f-9780-3cce2ac48b0c;2
+3;253;treatments for tooth abscess;1582817a-da9c-4c2c-9a7b-4ff78709ece3;1
+3;255;teddy bear picnics;86f0f7a0-f102-4d30-a930-d2f2e8982f05;1
+3;259;difference between carpenter bees and bees;a8d44d1c-c1b8-400d-a2ff-d11f1a84e68a;1
+3;261;folk remedies sore throat;8c15e999-46c0-467f-a4de-9b1162dfacde;1
+3;263;current scientific theories and data on evolution;85d66f5f-d9c5-4591-bc87-1a759c24b066;1
+3;267;feliz navidad song lyrics;485cc9b6-2a5c-4ffa-889a-cc5b2874e3ea;1
+3;270;sun tzu quotes;eb757706-0d5b-4636-b347-9a5c7c7b90c5;1
+3;271;halloween activities for children;903722e3-0364-47b1-b8e9-f6ca8c2486c9;1
+3;273;wilson disease association;ceebd1ba-b638-4dc3-a90b-193822ef6566;1
+3;274;golf schools;176306b6-11f5-40f0-9e87-d4d9fb016946;1
+3;276;african american influence cultural history;f2e2c47f-b081-41b6-a80b-43eb7337ce5d;1
+3;277;bewitched cast;43738e21-98e9-4951-9e7d-8d78694c7cd4;2
+3;278;mister rogers neighbourhood theme song lyrics;14c3b683-d045-420b-b446-300a3487a47c;2
+3;282;interplanetary missions nasa;99dc744d-4132-4cab-b314-a4d7fe9a29e4;2
+3;284;find morel mushrooms;fdd3a66e-017d-40c5-8f2d-8905c019cacf;1
+3;285;foods rich in magnesium;44eee133-952a-4377-bef9-fe74d302e072;2
+3;286;treatment stages schinzophrenia;2711c58c-af75-44ac-999f-ea6d51677fd3;1
+3;287;carotid cavernous fistula treatment;bfe9f085-8592-4be3-b0a2-2f5a318be90b;2
+3;289;yoga benefits kids;5220a7a1-b148-498b-b158-25b2fb4a9dfa;2
+3;291;sangre de cristo mountains cities;7d321c35-1a14-4b55-acd0-6263ba12d847;2
+3;292;evolution electronic medical records;cc36bfc7-4996-42b2-9175-0eadbd5dda56;2
+3;293;educational benefits social networking sites;e1c55741-6437-4061-bf36-baa265001203;2
+3;296;where recycle lead acid batteries;81a0134a-8051-45e7-93ab-165ef533784f;2
+3;297;altitude sickness prevention;82137483-cffc-437b-8bdc-7a8615af5527;2
+3;298;medical care jehovah witness;8fa1a431-c581-4b32-8f78-58badb7671a8;2
+3;300;calculate mean set of numbers;6d3b1e52-65c3-4f03-973e-0bf77559c725;2
+30;251;how to recognize spider bites;c44a8aca-15bd-4d1f-9652-e3f55f0635eb;1
+30;252;Orcas Island wikipedia;b81314df-9874-485a-867c-530361966dd3;2
+30;253;treatments tooth abscess;efd087ed-37d4-497a-a4a6-c8e783766294;1
+30;255;teddy bear picnics;e1941920-12e9-40dc-ae80-d80da6b48b93;1
+30;259;bee and carpenter bee;b8e33c60-4257-425c-aabb-4746829f3984;1
+30;261;odl remedies sore throat;0db55e43-fcf5-4a26-81ed-21017e376f9e;1
+30;263;evolution scientific theories;5e051136-2838-42fe-bb15-9093ae8bd2cf;1
+30;267;jose feliciano feliz navidad lyrics;cb58df5e-6305-430d-90de-1db96224b653;1
+30;270;sun tzu quotes;3f500656-1328-48d1-9c27-1209f195f386;1
+30;271;halloween school activities;db7cf09b-a25c-43ef-ae05-2fad541cdd92;1
+30;273;wilson's disease association;d7653ff6-65e8-40f0-9d2e-6e61272a9245;1
+30;274;golf school;1eec24eb-4f44-4fdb-aee7-d848348845dd;1
+30;276;how has african american music influence history and culture;cd1efe02-0987-4bda-bab7-fa55a88a37df;1
+30;277;Bewitched casting;bd1d678e-810a-488a-a52a-fe9da2ca7845;2
+30;278;Mister Rogers' Neighborhood lyrics;e569bc3e-250c-4233-b242-a13dbb038611;2
+30;282;NASA projects;f223a28a-8821-4ff0-a761-ee9456c100f0;2
+30;284;find morel mushrooms;19952818-b2ae-4a54-ad9a-f14f127aba0d;1
+30;285;Which foods are rich in magnesium?;14e33fa6-4044-46bf-beca-56a7a44f4900;2
+30;286;schizophrenia treatments;862df532-eb7a-4c78-9b34-71020f66cfd5;1
+30;287;carotid cavernous fistula;d0932d44-b166-43b9-8c33-1f0f8f45fd3c;2
+30;289;What are the benefits of yoga for kids?;473f509e-c52e-4444-b899-214b2a1a3a5a;2
+30;291;Sangre de Cristo mountains cities;bbe51e21-a85e-45a0-bb5b-d8228e5cc536;2
+30;292;electronic medical record history;d6dcf5d9-67e1-46d3-9888-e7b9f4a7f2f0;2
+30;293;benefits of social networking sites;7265ad85-0532-4367-81ea-198482f012b6;2
+30;296;recycle lead acid batteries;1fb8be81-93b8-48ec-8c53-7fa7a8d19922;2
+30;297;How can one prevent altitude sickness?;8a4ea3a3-214e-45fa-b19c-e2da9ce64a92;2
+30;298;jehovah's witness health care practices;0627ee61-0b21-4e6f-abbb-1c4513535a8b;2
+30;300;compute mean;2c971a4a-ed8f-41c6-bc19-911d390318e5;2
+4;251;how identify spider bite;1036c528-a44c-4243-a5a7-787360647d58;1
+4;252;historical information related to Orcas Island;697a1368-d4b3-4d47-888d-338069f83e58;2
+4;253;treatment available tooth abscess;e58a027a-92e4-40b6-8d1c-3a5be0bc0803;1
+4;255;teddy bear picnics;cf257dbb-b1b3-4e7a-8662-d39b1685fa45;1
+4;259;difference between carpenter bee and other bees;f7dcbb49-7679-4dcb-8dbe-5027e97906ab;1
+4;261;folk remedies for shooting sore throat;cdf479e1-c879-4c0a-906f-8165c1d9c295;1
+4;263;current scientific theories on evolution;32c857f1-5d7a-4f6f-89ea-8b308e8d3433;1
+4;267;Feliz Navidad song lyrics;3af252bf-2e5a-4bcf-8063-48708a4280d1;1
+4;270;quotes Sun Tzu;99d5bf65-6c29-4577-8071-c9020330e46c;1
+4;271;halloween activities for middle school;c799df0e-e687-4baa-84b6-e32067458833;1
+4;273;wilson disease association web site;8e36c00f-318a-4646-81db-66f9ca344709;1
+4;274;golf school;2dd24d8c-0026-482a-9620-700cb794532d;1
+4;276;how has african american music influence history;dd1263ba-6113-456e-9881-b139a1bf63d7;1
+4;277;name members Bewitched television;50bcb29b-5250-4fb0-bc16-e528e091973c;2
+4;278;Mister Rogers - Neighborhood lyrics;eee7733f-e4fa-4103-871b-c2a1b1c43cdc;2
+4;282;interplanetary mission NASA;4e27b022-526b-4dc8-abf1-8eca4493a49e;2
+4;284;best place to find morel mushroom growing;13475a18-5393-46a4-985b-be693787ac98;1
+4;285;magnesium food;d14ad115-5a4f-4bbb-b7b7-03527e1958f2;2
+4;286;drug's treatment for different stage of schizophrenia;28b0d44d-77a8-4f71-aa48-1b4e02ffa964;1
+4;287;carotid cavernous fistula treatment;4b167606-3ec6-4bcc-8b34-3337acacacaf;2
+4;289;yoga kid benefits;d03ee4db-f922-4438-a456-a6a7dc9e9dca;2
+4;291;Sangre de Cristo mountains destination;81ae415a-ba16-4d7d-b6d2-972bd2c4aca5;2
+4;292;electronic health record evolution;c3ef5bd7-a775-4cad-9300-522caa468f44;2
+4;293;educational benefits social networking site;5b3a3a2f-53f7-48c4-a42f-4441859d85d9;2
+4;296;recycling lead acid batteries;be7125c1-6d7e-4c00-93ba-b8b17d1c01d7;2
+4;297;prevent altitude sickness;17192d13-3b51-4e56-9da1-6383b9467af8;2
+4;298;jehova medical practise;0163550d-fd53-42c9-af1d-913de1fbd186;2
+4;300;compute mean of set number;6ff55113-b875-4cf3-ae2c-4ac1c839d531;2
+41;251;spider bites images;2b45264a-5e3d-4bdd-80e2-d7d56d77c80f;1
+41;252;orcas island;93a2ca52-d561-4c94-a71a-59fceb488a8d;2
+41;253;tooth abscess treatments;84b968fb-1c3c-454a-a4f3-d80769e5de90;1
+41;255;teddy bears picnics;b1c38530-375c-4a34-8de4-d2d931ebce9c;1
+41;259;carpenter bees particularities;8c8dbb05-8a84-4cfb-9f6b-ce11048f19fb;1
+41;261;sore throat soothing;0a051f47-47df-4802-a15b-1b0713dd787d;1
+41;263;evolution scientific theories;f035331d-c99a-45d6-801a-9450b07cf0dc;1
+41;267;feliz navidad song lyrics;8981bab7-7790-4e34-91a0-762f99222bf9;1
+41;270;sun tzu quotes;ea8c98b3-dbfc-40a0-873c-ddcc3f1290a3;1
+41;271;halloween activities teenagers;9142c1fa-38b5-4dce-ad4a-4a25400440b5;1
+41;273;wilson disease association;f2769d7e-f989-4b2a-8108-253e03de8762;1
+41;274;golf school;f2a4e6b2-6fbd-4231-bd89-b22dd5f092b0;1
+41;276;african american music influence;f34cad27-8023-44d3-b242-d7fc32bd0be2;1
+41;277;Bewitched casting;5533d6a5-53bb-46aa-a7a1-ef401da22d27;2
+41;278;lyrics neighborhood mister rogers theme;667404bc-54a1-43e1-b8d2-9161bed089da;2
+41;282;NASA future and actual interplanetary missions;181bf506-6372-43fa-8a5b-1b3238140186;2
+41;284;morel mushrooms where;ac800281-5943-4e80-91f0-61280cb30865;1
+41;285;magnesium rich food;3ce4f910-5622-4e29-8b21-a3f2c8174d76;2
+41;286;schizophrenia drug treatment;ecd2292e-7fe6-4174-9a46-037be197f2bf;1
+41;287;carotid cavernous fistula treatment;3cfdf7f2-c27e-4464-a9c8-d577f37e7a2b;2
+41;289;yoga kids benefits;9f970189-800b-42e3-9e7e-ef4b0d5c3c32;2
+41;291;sangre de cristo destinations;23b88a75-7a17-4e0c-8af0-37ecd96dabed;2
+41;292;electronic health record history;6fa1714f-ac8d-4508-82cd-d94a7a11bfab;2
+41;293;social network educationnal benefits;c945ab10-a3de-40d3-89dd-7be7dff37443;2
+41;296;recycle lead acid battery;0321ddb7-4dc1-4149-84fe-3dba0e267b45;2
+41;297;prevent altitude sickness;a26f88dd-13ff-46f2-968a-c2a0d0e8b216;2
+41;298;jehovah witnesses medical practices;3d026968-6371-40a4-84a3-f5d45d6a3f48;2
+41;300;mean numbers;fadf10e5-e985-4822-94c7-1947b3d252dd;2
+42;251;identifying spider bites;89f7e062-a070-4578-a8fd-820a8a674cd4;1
+42;252;history of orcas island;fc236c89-c4bd-4ffa-8c52-fcdbe557e06c;2
+42;253;treatments tooth abscess;dcac4595-222e-4150-b458-cb6d65be4c72;1
+42;255;teddy bears picnics;41faac50-ef91-40a6-ba42-fbc389f069ea;1
+42;259;carpenter bee difference other bees;89f7f57f-52f2-43f3-8e2c-655dd0b3e5cb;1
+42;261;folk remedies sore throat;21c845f4-9859-4fca-b459-741b32403845;1
+42;263;current scientific theories on evolution;aadbb0d4-d7c7-478e-8164-40c54f8152e4;1
+42;267;feliz navidad lyrics;5e882cf8-2168-4299-9fca-7bd3a9198bb1;1
+42;270;quotes Sun Tzu;34c35c3e-cb40-410b-a5e6-d05324b86156;1
+42;271;halloween activities for middle school children;77bb0256-d4ff-467f-98f9-d672ff4428e0;1
+42;273;Wilson disease association;c8d7eada-b715-4266-bab3-ebfeb767de96;1
+42;274;golf schools;2f717e57-98f8-4e1a-87a1-c580dfbb98d9;1
+42;276;African American music influence history;6ca9ce5f-37d1-4588-814d-572f75d8d776;1
+42;277;casting bewitched;bfb2f9b0-b473-4377-9c90-5a3d351c9c0d;2
+42;278;lyrics mister rogers neighborhood theme;3c935930-9ad1-42bd-8394-f16e085d071b;2
+42;282;interplanetary mission NASA;f45d7c39-8936-468a-89c2-661dbedb77c6;2
+42;284;where to find morel mushrooms;6c7e024b-944f-452f-8d01-753584ff3eb4;1
+42;285;foods rich in magnesium;29966b2f-2a99-4b5e-96c5-1dfd7f152fef;2
+42;286;drugs treat different stages schizophrenia;c9160c70-fea1-4bf7-84b4-d37df611e1ed;1
+42;287;treatments CCFT;a3de666d-95a6-4e5c-9727-e215a565f240;2
+42;289;yoga benefits kid;88b71e77-e03a-460c-9fd2-b6625b304504;2
+42;291;destinations within Sangre de Cristo mountains region;c8dc2905-dfb3-470e-b9f3-1b562fca57a5;2
+42;292;electronic medical record evolution;8365eb78-e46c-47df-85a7-e9b4a839e1c3;2
+42;293;educational benefits social networking sites;04115a0b-7faa-4137-ae2d-e874571fd90b;2
+42;296;where recycle lead acid batteries;7ce6893b-707d-40e6-9555-38e7d548d01a;2
+42;297;altitude sickness;4c13e05a-6d74-4197-8da7-b6d36183b7ab;2
+42;298;medical practices Jehovah witness religion;066d72b5-596d-47af-a2f4-15165e8dbe13;2
+42;300;compute mean of set of numbers;4873ae00-3641-436f-bb46-8fae267f16de;2
+43;251;identifying spider bites;70673f6e-25e3-4c16-94d4-732eea133768;1
+43;252;historical information about Orcas island;21c37447-37bc-4046-9b12-316d476e4389;2
+43;253;tooth abscess treatments;e32373b6-2aa9-4d92-9956-4dd6adcc06bd;1
+43;255;teddy bears picnics;29bb0eff-df03-4bac-b138-519a77420a44;1
+43;259;carpenter bee;909945b1-63bb-4175-bd3f-406ca6616840;1
+43;261;folk remedies sore throat;e9a567b0-a868-4a66-8b64-b763e29865c9;1
+43;263;scientific théories and évidence for evolution;92328199-b697-472a-ae34-e5f2a7fc6a17;1
+43;267;feliz navidad lyrics;8dcc0cf1-47d6-4e9f-8e83-2461c869ce3a;1
+43;270;sun tzu quotes;132c2139-6f06-4492-900d-71a4658e8660;1
+43;271;halloween activiis for middle school;af5b4549-d4da-498c-921e-62d5e524ecdc;1
+43;273;wilson/s disease association;31a7ca01-ae37-4ceb-bf52-6b1b9e52fc2f;1
+43;274;golf instruction;bfcc7912-9493-40ef-94d8-b63b357c568d;1
+43;276;how has african american music influence history;8d52201c-ad2c-4ed4-b7e8-ad3d1977880f;1
+43;277;members of bewitched;0f5c7a8c-c47c-4613-b31d-806eb9dc2741;2
+43;278;Mister Rogers| Neighborhood lyrics;06034b18-378a-4803-9490-7b47886a7ed9;2
+43;282;interplanetary missions NASA;68edd44b-2db6-4f3f-a4d3-3f926297cf19;2
+43;284;where to find morel mushrooms;b814078c-c874-4797-8489-588742b8056b;1
+43;285;food rich in magnesium;93642a38-8d59-4acf-b0a2-852dc1820d62;2
+43;286;drugs use to treat schizophrenia;056356c2-62fe-4334-b2c1-541b56a8872a;1
+43;287;treatments for ccft;b15f03bd-5b57-4749-92ea-f34f6f6be92f;2
+43;289;benefits yoga for kids;c6876905-64ba-44ac-b182-74d5162d3c75;2
+43;291;destinations Sangre de Cristo;c7d3b0e4-eb2f-4b87-961c-f9b307ee3a7b;2
+43;292;electronic medical record evolution;6d73cea0-afd1-47c8-bb32-07ae595cb4c0;2
+43;293;social network benefits;d1983a81-b1b3-4528-ac1d-3303ec51c167;2
+43;296;acid batteries recycle;29f5c7f5-930b-407f-ae7e-a7b52b9d70bb;2
+43;297;prevent altitude sickness;28e319d5-08f0-4b5d-9f3c-434e8fd6a100;2
+43;298;health practices of jehovahs witnesses;3b80f40d-50f9-4a35-947b-3095fc54b1cb;2
+43;300;calculate an average;854f1a95-72fd-48b2-8d52-f4ffc356d809;2
+44;251;identifying spider bites;fea48a3c-930f-42e9-b34e-852fd1f820c7;1
+44;252;Orcas Island historical information;f77d1005-85cc-46fe-862b-bf4234aa9317;2
+44;253;treatments for tooth abscess;0d3c5dd7-4fa7-41b3-b777-9fe0ee3a7056;1
+44;255;teddy bears picnics;cfb7c94c-903a-447d-8ff3-79f91e44725b;1
+44;259;carpenter bee;39876b45-c054-4378-b572-bff014e177c2;1
+44;261;folk remedies sore throat;40cc1610-a393-4202-bccf-e32de0ff629c;1
+44;263;scientific theories and data on evolution;70760652-6978-4252-a5b1-4ec8e76aeafa;1
+44;267;feliz navidad lyrics;044a7048-6465-454b-a00b-22669d1d805f;1
+44;270;Quotes Sun Tzu;b2a8f63a-1468-44fd-bfa0-426dfce9bad0;1
+44;271;halloween activities for middle school;40a8474d-c691-43e3-93ed-900abd5b880e;1
+44;273;Wilson Disease Association;f197f00e-1093-44bd-a76b-4b64452b71c0;1
+44;274;golf schools information;c38696a8-ef92-4ed6-b4d8-76b359fab9a8;1
+44;276;African American music influenced cultural history;468cd0fb-a191-443b-9afd-00403d802af1;1
+44;277;"""Bewitched"" cast members";65618f99-c998-4367-b975-d8ae8b2b0df1;2
+44;278;"""Mister Rogers| Neighborhood"" theme song lyrics";5e02e341-002e-42e4-8cea-4aadc2e618cf;2
+44;282;NASA interplanetary missions;4b2d6849-78ea-40a3-85b8-fb456a98fd14;2
+44;284;best places morel mushrooms grown;129180c4-8976-4dd3-a7dd-b14909723b7b;1
+44;285;food rich in magnesium.;c9ad4b5d-6005-42e4-93d4-a73052e5ceed;2
+44;286;drugs schizophrenia different stages;a177ae83-17f0-4152-90c6-3898232a7bd6;1
+44;287;treatments CCFT and carotid cavernous fistula;069e6839-7281-48ae-b82c-9eefced32dc6;2
+44;289;Benefits of yoga for kids;41c9c63b-3cbb-49be-8953-e2e766fcac02;2
+44;291;Sangre de Cristo tourist destinations;47e9d944-0ee2-4910-877a-bf700bc34aab;2
+44;292;Evolution of electronic medical records;f2eb9df5-2413-4247-b7ba-bbad0724a143;2
+44;293;educational benefits of social networking sites;64670937-d73f-4abc-bc51-47a044db4ea5;2
+44;296;Where to recycle lead acid batteries;ac4a1e75-cc0a-451c-ba54-e6fc3f4157b4;2
+44;297;prevent altitude sickness;57e25416-ed11-45cc-a0ef-5f190ae8fe2f;2
+44;298;Jehovah's Witnesses medicine practices;6d287648-0b50-47b7-ab05-c4fa218f3906;2
+44;300;mean set of numbers;d01696d6-9d29-4b4a-a53f-635c4ef1232d;2
+45;251;spider bites;c42c59f3-2069-4b5e-815c-a8f83e30f2cd;1
+45;252;orcas island;ebdb2f65-22fe-45fb-ac0e-c4bcaf71791e;2
+45;253;tooth abscess treatments;ea556221-1e65-48b6-8681-e8ec1688cdc8;1
+45;255;teddy bears picnics;72c10746-fd36-4efd-9b53-171fe4b46f66;1
+45;259;carpenter bee specificity;69a2b6b9-14b0-4065-9f1a-28cd02b7dc7e;1
+45;261;sore throat remedies;7d1bc6ff-cdab-4adb-b868-f1290ff5b19e;1
+45;263;scientific theories evolution;f259a299-5195-4da8-bf0f-3ebac17e7bbf;1
+45;267;feliz navidad lyrics;6d0fca70-9b98-47d9-b439-cb49a0a909f6;1
+45;270;sun tzu quotes;d6ba2b0b-7ec0-4772-ad8a-8ef681bf0b80;1
+45;271;children halloween activities;abdda607-faf8-4084-b983-6b0c341ed3e6;1
+45;273;wilson disease association;2e76f073-47b7-4cb7-9f05-3e98b5008b8b;1
+45;274;golf schools;bf06d1b4-f135-4d63-ab1d-1243f91d3b80;1
+45;276;african american music influence on history;499bc142-7d12-428e-b0b5-cbd7be0a0548;1
+45;277;cast members bewitched;045a8d1e-c278-4678-aeb6-375f634d9828;2
+45;278;Mister Rogers| Neighborhood lyrics;c9754f62-5bb7-4108-962c-cde1ac0337bb;2
+45;282;NASA interplanetary missions;8e11119b-a1f3-4fd5-bb34-1fafcc0f0b96;2
+45;284;finding morel mushrooms;f1761031-33f2-481d-8e11-3e6ab5e7379f;1
+45;285;food magnesium;58a93134-106d-4ccd-926d-4c221dcbbb65;2
+45;286;common schizophrenia drugs;7ae58648-2d33-4624-9ead-b0c1c18b0e57;1
+45;287;ccft treatments;044ff4aa-708b-4f0e-b387-ab91013061f9;2
+45;289;yoga benefits on kids;56653640-abf2-4a34-b5e2-a0a2f2548990;2
+45;291;sangre de cristo mountains cities;bd93e3a3-5e15-4ffe-9207-a8fda21c3974;2
+45;292;electronic medical record evolution;929093ca-2274-4534-acc3-acad506fc638;2
+45;293;educational benefits social networks;c54fa4fc-a3af-4b17-a280-65536f41c234;2
+45;296;recycle lead acid batteries;d2112eb9-13c6-40ef-845f-0e14b352e931;2
+45;297;preventing altitude sickness;5c248202-eec5-4e7c-8618-76687af91d0c;2
+45;298;medical practicies jehovah religion;32da36b8-cc58-4e0c-acde-e0236e7a492b;2
+45;300;computing the mean;efa8ef26-b628-40cd-8db0-341d7dd6bd63;2
+46;251;identifying spider bites;8bed4868-6511-4a46-bb0a-24d6c02d83f4;1
+46;252;information about orcas island;725361fc-4855-4ca2-a969-79eb651c1452;2
+46;253;tooth abscess treatment;2477ee9c-254c-48cf-9f4e-dd0f42e72ee0;1
+46;255;teddy bear picnic;c4144d27-51ba-4479-92cf-5bd02e16492d;1
+46;259;carpenter bees identification and comparison;bcda6a9c-252e-4654-80f6-eb8316123a8c;1
+46;261;natural sore throat remedies;fb8cec38-6bdf-44bc-bc98-62d53b5fb3ec;1
+46;263;evolution theory and data;6b22649f-4b4f-4f00-b1d4-a27b99c1b494;1
+46;267;feliz navidad lyrics;7559c97a-510e-4d4c-aba8-55e5d8c4822b;1
+46;270;sun tzu quotes;6ab929eb-c8be-44ed-80b8-9f9af7b5d13a;1
+46;271;halloween activities teenager;55626154-5940-478d-9566-335d747f16c4;1
+46;273;wilson's disease association;a0943a8d-528d-4231-9757-9f2465c74dec;1
+46;274;golf school;f12ba5e3-a9fe-4260-a306-06d1c2b87b09;1
+46;276;african american music influence;8d6accb7-6b62-423a-8670-3d980c817e58;1
+46;277;bewitched cast;b7c34f70-3f80-4ef5-b59e-42825a85c3f2;2
+46;278;lyrics Mister Rogers Neighborhood;bb642c21-69a3-4463-b165-bd0f2b4ec6cd;2
+46;282;nasa missions;5ed3f805-3ee1-4c6b-af64-7a8a0e5d7598;2
+46;284;morel mushrooms best place to find;1bb339c1-09a8-4983-828c-c832f8749cd3;1
+46;285;magnesium in food;86e8aa9a-0383-4798-b366-610f1a9e849f;2
+46;286;schizophrenia drugs;27cba107-6db4-458a-bc46-e0018d90525f;1
+46;287;carotid cavernous fistula treatment;11bdaf4d-0fd1-40da-a9da-fabb918d02a2;2
+46;289;should kids do yoga?;150c5ca5-427f-4a31-ab95-a411f04ac00a;2
+46;291;Sangre de Cristo mountains region;17f32c4a-39a7-4c3b-8cf5-614524e7da8b;2
+46;292;electronic health record evolution;d04a0ec1-27fd-4dec-b333-8ccd602f6121;2
+46;293;advatages of social network in education;36a3302c-554b-450c-883f-6dedd7936d5a;2
+46;296;where to recycle lead batteries?;091280b2-1a6e-4ff4-b3fb-688a8d2dae2d;2
+46;297;altitude sickness prevention;42b40827-dd30-48f2-96b9-7a81359f4b57;2
+46;298;jehovah's witnesses healthcare;f3dfbf4a-4c83-4b1f-9129-2e0eba76bb0c;2
+46;300;Calculate mean value;aeddc3ea-3306-4a40-8bd4-f2b7955596db;2
+47;251;Spider bites signs;3cb4798f-5b37-41ce-8060-06d19bb7c967;1
+47;252;Orcas island historical informations;91d0df74-d89a-4ed6-a3d8-f1ced55ac70e;2
+47;253;Tooth abscess treatments;befe265f-d69a-42a9-9a8e-bd42f3eae7c9;1
+47;255;Teddybears picnics;1c0d2f3c-1f04-4e1d-8418-a58ae2fbe86c;1
+47;259;Difference carpenter and normal bees;1a616893-1966-4063-a0b4-5355ebe02f8c;1
+47;261;Sore throat folk remedies;955f4956-f73a-42e0-ae68-1146de06dba7;1
+47;263;Scientific theories of an evolution;47873090-aa39-4060-9f7f-590dc3ca9e83;1
+47;267;Feliz navidad;aa4ddb3b-814c-4414-9d64-a00f77667216;1
+47;270;Sun tzu quotes;0a9fc69f-75b8-4c84-b92b-4127f2c2b013;1
+47;271;Halloween good activities for middle school;497c3562-ae9e-40ab-8c45-9c915a87f662;1
+47;273;Wilson desease website;d7215f8e-3b34-4851-9825-8eb16ad16241;1
+47;274;Golf schools;b62f763c-2557-42c6-90f6-f73eecd94d37;1
+47;276;Historycal impact of african american music;c1ac33bb-9cac-4fe6-93b0-c7e8e844be6a;1
+47;277;television show bewitched;abd56933-2398-4834-b8eb-665d43f3c6e8;2
+47;278;Lyrics mister Rogers neighborhood song;21183025-2f58-417f-b5d4-9e84c1088850;2
+47;282;Interplanetary missions nasa;971a56d6-cfc3-4bbd-b839-c7d4b9b71813;2
+47;284;Morel mushrooms spots;8d0d6d7d-0a24-4488-b19f-faec95c336a9;1
+47;285;Magnesium rich food;330a2584-00a6-49b0-825a-85646be69c1f;2
+47;286;Schizofenia common treatments;86a5a414-1284-493b-9fa8-3c5ee509554f;1
+47;287;CCFT Cure;ab26b966-0c9b-4833-9936-80307955e56c;2
+47;289;Yoga kids benefits;c18ce11a-ee3e-41c6-8b21-82e1476a2987;2
+47;291;Impact of the sangre de cristo mountains region on cities;7ef9ea0b-fc90-4e91-a153-05ef734c6c47;2
+47;292;�0volution electronical medical record;9c4701d5-c395-4832-bbbc-9ea5a10c2fa2;2
+47;293;Social networking sites educational benefits;51c9b29a-0d4f-44c9-9575-a1c473474aba;2
+47;296;Recycle lead avis batteries;55f7fb29-fb42-4403-afbb-3433e33e3306;2
+47;297;Altitude sickness prevention;fa95c7d4-5002-485a-b088-b86c4e62f947;2
+47;298;Health practises jenovah witnesses;75647bc8-8304-4d94-bdef-22b9a9d2b202;2
+47;300;Compute mean set of numbers;16328a3a-b4e4-4463-9f83-2a5f63ea2dc2;2
+48;251;identifying spider bites;0bb69f47-f082-4ba0-b6b2-c52ff9ffd753;1
+48;252;orcas island wikipedia;9603030a-4a0f-4b68-a500-45e2365a07d3;2
+48;253;tooth abscess treatment;cdf49ed7-b577-434e-a889-14090edc606a;1
+48;255;teddy bear picnics;144c1103-22eb-4e90-8900-38a54a3cf37f;1
+48;259;carpenter bee characteristics;cccfff3f-c90b-4ec8-9ac5-cfc9cdd10e76;1
+48;261;folk remedies sore throat;42038eb4-e990-455b-8d77-1a1ecfa5f8b1;1
+48;263;evidence for evolution;f0fe5ce4-1f3a-4025-b706-b1f8ca40aa85;1
+48;267;feliz navidad lyrics;c4cf635b-d317-4421-854f-f6fee7bafb82;1
+48;270;sun tzu quotes;a62be08e-6c98-42d2-a96f-531ca8ce5219;1
+48;271;halloween activities for middle school;5eacc229-576b-443b-be61-11a74db7332a;1
+48;273;wilson's disease Association website;c3d647b6-52c3-48c9-8e37-c0db23bd19d3;1
+48;274;golf schools;9eda85f1-28e2-4a9e-962f-3d4152e51a4a;1
+48;276;how has african american music influence history;31c861fd-c589-4463-b55f-edc8f374f0fd;1
+48;277;Bewitched actor;39f47884-1fad-446d-88cd-05cfe824b09e;2
+48;278;Mister Rogers Neighborhood lyrics;8a10808c-cf0d-4a64-afeb-294c607fb356;2
+48;282;NASA interplanetary exploration mission;0a35f430-2beb-4d84-83d1-b2d740ef642c;2
+48;284;where to find morel mushrooms;02ce505d-9232-43f1-b9c6-12434e9ed3f2;1
+48;285;high magnesium content food;41ea5e95-a8f5-4252-86f7-d0382982e108;2
+48;286;common schizophrenia drugs;6c030f3f-540d-4abc-91f9-b02c1f73acdb;1
+48;287;CCFT carotid cavernous fistula treatment;a406f127-1aa6-4119-86d7-2da04d960b21;2
+48;289;benefit advantage yoga kid;882e70a1-5ac9-4ff1-82bc-1c125a830682;2
+48;291;Visit Sangre de Cristo mountains;5c1d2960-b6a8-4d18-aede-97bbbe95444a;2
+48;292;electronic medical heatlth record;2628aa11-9c20-4690-8778-e8a620b1359f;2
+48;293;education learn* social network media;91688f08-9f0f-426a-8f94-072eb238ad0a;2
+48;296;recycl* lead acid battery collect point;53569de8-983d-43ee-8b22-d87f5afebe66;2
+48;297;altitude sickness prevention;c67359e3-6c62-4202-b4d9-4a5b8f88ea3e;2
+48;298;medical health Jehovah witnesses;6d022e31-c7ff-47dd-ad0e-cc455bcbcf4e;2
+48;300;mean value calculation method;871e629b-d57b-4a50-b674-8dc8aacd3ec6;2
+49;251;spider bites images;8c9e5e06-a12a-4c8e-a9ef-346089fce720;1
+49;252;Orcas Island history;38666f66-8b3d-4950-bb01-47a70080dd64;2
+49;253;tooth abscess treatment;acfd9c51-9945-4e55-9687-4203c5945955;1
+49;255;teddy bear picnics;d7e5f3c8-9a66-432e-9e4d-2814ecb4f24c;1
+49;259;identifying carpenter bees others bees;afa3663f-94b8-4378-a23c-a751187af1ef;1
+49;261;folk remedies throat;7701e3e1-7dfa-45cc-ae28-4b051aeddf77;1
+49;263;current scientific theorie on evolution;80c4a9db-a7c2-4d5d-8b20-c220a2e524de;1
+49;267;"""feliz navidad"" lyrics";29181e03-c14e-45f2-8a2d-4a2615975d6b;1
+49;270;sun tzu quotes;dd683688-2146-4f4e-a61b-ca424b5e3c0a;1
+49;271;halloween activities middle school kids;97899832-35f0-4b88-a508-0bcb9660946f;1
+49;273;Wilson Disease Asociation;4e6fae01-0561-40e7-97c8-56609c2a0961;1
+49;274;golf schools;b133f862-f355-42b4-acbc-4019703113bf;1
+49;276;influence US music on US history;95b5ec0f-b3c9-4bff-ab6b-a430c4482f38;1
+49;277;"""bewitched"" cast names";638b133e-01b9-4fab-ba99-2fc6e03013b7;2
+49;278;"""mister rogers neighborhood"" lyrics";410b61ef-c03d-46c2-809d-8c6d055b0be5;2
+49;282;NASA interplanetary missions;b8d9a0c5-4231-4804-9b50-b23d91da5094;2
+49;284;finding morel mushroom growing;383f2637-1a0f-47d7-bb49-02be6a035922;1
+49;285;magnesium in foods;8650450a-182d-4558-9db4-69329a9ac087;2
+49;286;treatment drugs schizophrenia;ed75f58a-122c-43fe-85cb-67e299778245;1
+49;287;carotid cavernous fistula treatment;c7fbb772-f884-43ce-976e-f2cc4d62ab6f;2
+49;289;benefits yoga for kids;bdf89c2f-ccfb-440f-a2d8-fcde3a04642d;2
+49;291;Sangre Cristo mountain tourism;bb27cdef-d687-475a-8894-8e60df9f51ca;2
+49;292;electronic medical record history;b4c9a54d-5fe7-45fc-aa58-b151b4d4b6a6;2
+49;293;social networking site education;066f11a8-7d2d-42fc-9a2a-22e462f92dfc;2
+49;296;lead acide batteries recycle;2070aab8-52db-413e-a604-e2e90185b0b4;2
+49;297;altitude sickness solution;fe499afe-fae2-4302-8c6f-dc16efae7994;2
+49;298;health care practice Jehova;9737f5cc-2bca-4755-99cc-ccd39afd635e;2
+49;300;compute set numbers;30a923cb-88fa-43fb-aeaa-ddd13c7e39f7;2
+5;251;how to identify spider bites;8b3a28b2-bc2a-4420-8688-0306ee31fa6c;1
+5;252;Orcas Island history;21fe9e20-36e7-41f4-9fc2-fae326e5968b;2
+5;253;tooth abscess treatments;a17dbf2c-6a33-41a0-8c53-ebd994d29ada;1
+5;255;teddy bears picnics;381884ec-6702-4fea-9723-44b09cf3b779;1
+5;259;Diffrence between carpenter bees and other bees;b8fe645e-2fc6-4eb7-a5a6-6e2b9552f17e;1
+5;261;folk remedies for soothing sore throat;bbc0a7c8-2092-4d5e-83a1-86cad842f3bd;1
+5;263;scientific theories on evolution;97684722-3d77-4c65-b6cb-474473620249;1
+5;267;feliz navidad lyrics;b8c3a956-be91-4b7c-b2cc-d4ad72615c42;1
+5;270;sun tzu quotes;9e774fe2-81c6-4373-a105-d537fe7445f9;1
+5;271;halloween activities for middle school;8f2ede5b-f4d6-4424-aecb-b0fb6c239c2d;1
+5;273;(Wilson|s) Disease Association web site;04968884-132b-4775-8226-36463a625604;1
+5;274;golf schools;897ab76c-4fe0-4ad9-80c4-21913d07eae9;1
+5;276;how has african american music influence history;5a83cb1e-7025-49df-882b-c0a8d09375c2;1
+5;277;Bewitched cast members;8736ec99-9f2d-4c7f-a52f-c0940ccafc57;2
+5;278;Neighborhood lyrics;a9f61888-a746-4975-a539-c56ecce591d5;2
+5;282;NASA interplanetry missions;02b24e0b-fd32-486d-ac83-0f16be69ec63;2
+5;284;best places to find morel mushrooms;1b5d6496-5410-4eff-bcad-8da193c57dac;1
+5;285;magnesium foods;5fdac4be-cba4-4c7e-9777-5d4635137672;2
+5;286;drugs used to treat schizophrenia;4117f88e-0161-4cfb-8443-09645699e05b;1
+5;287;treatments for carotid cavernous fistula;2bd64708-9f56-4e48-99f2-4307cff8a0d9;2
+5;289;benefits of yoga for kids;f98d8a50-e31a-4c69-b5c3-a908dca696b4;2
+5;291;around Sangre de Cristo mountains region;53ba0e4c-36c0-414d-bce1-09fecbcab196;2
+5;292;how the electronic medical record has evolved through the years;381930a7-e995-4910-ab13-68e978c5d2b3;2
+5;293;educational benefits of social networks;34c2fe38-10b7-4ce7-b4e5-6979828d1359;2
+5;296;Where to recycle lead acid batteries;22570795-932e-4795-906a-f16abe29c217;2
+5;297;prevent altitude sickness;10c625cd-6317-4551-9362-c4ad1dac6723;2
+5;298;health care practices of the Jehovah|s Witnesses;f0ce12fc-ad75-43eb-ba81-9bb83d42aada;2
+5;300;how to compute the mean;14b9274c-cc71-4d28-b911-c70d907a0fca;2
+50;251;spider bites;596c301d-625a-43ea-9ae0-9ef9fa3b276a;1
+50;252;Orcas Island history;0135a945-2ee7-46b5-ac4c-4915fd4c0c4c;2
+50;253;tooth abscess treatments;a23f68b6-c11f-4405-bb63-87b88924c1db;1
+50;255;teddy bears picnic;b574517a-fe09-4d5d-972c-df5c62742a0b;1
+50;259;what is carpenter bees;bc55a885-49d7-4e4d-bf84-91b83975c6c4;1
+50;261;folk remedies for smoothing a sore throat;39abe6c6-7085-4531-9cd2-16bbb74756c6;1
+50;263;scientific proof of evoluation;e507d35e-9b6a-4f74-8bb1-a84affe50f16;1
+50;267;lyrics of feliz navidad song;7aee4b39-a382-4846-a9f9-1acc77f85e70;1
+50;270;quotes of Sun Tzu;a07862ef-5c05-4b75-9563-aac215ddc929;1
+50;271;halloween activities for middle school children;2b582e7d-2335-4efe-a586-60b4fb14145a;1
+50;273;website of wilson's disease association;82c8cbcc-b428-4ffa-9a87-4a7669fa0aa5;1
+50;274;golf instruction schools;9d4ae040-d66b-4264-8ce8-47f7f5f3fcc2;1
+50;276;influence of african american music in history;101d1e21-411c-4955-9b26-a33b906838dd;1
+50;277;cast members of the show bewitched;13c18a2f-3fd9-49e4-807d-6a474c5f0d90;2
+50;278;lyrics of mister rogers neighborhood;d9750b1b-53c6-4cae-9212-7e60a719412e;2
+50;282;NASA mission in planet;5dc74cef-616b-43b8-88b2-ecd4639610c4;2
+50;284;morel mushrooms growing place;49a63f9e-bd5e-434e-80e4-cd27753ce864;1
+50;285;foods rich in magnesium;60d61bb0-c31e-4be1-b804-1e07c5332bde;2
+50;286;common schizophrenia drugs;fc1bf4a0-0710-40a3-85c1-559b92038697;1
+50;287;CCFT carotid carvernous fistula treatments;5f60a47b-4cb2-48b4-93dd-321ef045732b;2
+50;289;yoga benefits for kids;46d55405-33d9-493f-9893-94fe9bc2c7a1;2
+50;291;tourist place in the Sangre de cristo mountains region;7943ffdc-b999-4fa4-89bb-46302d25c09b;2
+50;292;the evolution of electronic health reord;30133a19-8c40-48aa-9c07-627e7577096c;2
+50;293;educational benefits of social networking sites;f6d96ee1-c55f-49c5-8e94-33cae7a20116;2
+50;296;recycling lead acid batteries;2263f5ec-e444-4d59-a820-9ff8ad94ad79;2
+50;297;overcoming altitude sickness;7be79818-4adb-4486-87e7-018736e815a3;2
+50;298;Members of jehovah's witness religion for health care practice;bdcdd7e9-4e75-40cd-8870-aecbe33ffff4;2
+50;300;compute the mean of a set of numbers;59f32e96-8adf-43dc-9712-99bec012add5;2
+6;251;spider bites identification;c0380cba-2457-4e45-b05d-a3b196a776d5;1
+6;252;Orcas Island history;22e20bde-2116-44e7-936c-765d0e13d988;2
+6;253;tooth abscess treatments;ad29de9a-08ce-47ae-a46d-5f8e4d4c9a8b;1
+6;255;teddy bear picnics;9a5fcba3-b577-4859-8b3f-9ae7ed55703d;1
+6;259;carpenter bees caracterization;a4edac4b-a184-41c4-b993-ad7169bdd1cd;1
+6;261;folk remedies for sore throat;04a185e8-686e-4533-a2c5-edbc86ab8167;1
+6;263;the current scientific theories of evolutions;f3c468fd-4ae2-4016-808b-be804f9e76f5;1
+6;267;Feliz Navidad song lyrics;9fee328e-54de-40d0-ad7e-e00a4af3c121;1
+6;270;sun tzu quotes;3cba0e7f-1985-49a3-bb8a-b30748d4e130;1
+6;271;halloween activities for middle school;c93ff30b-a60a-4e0e-b705-b62854e43f75;1
+6;273;Wilson's Disease Association;bf7be341-0355-4fe4-90b6-bd75b5895265;1
+6;274;golf schools;5ea3f1ac-ae49-4a2f-8b66-1d9db22b0da9;1
+6;276;african american music influence on history;95c6f5ad-b36d-44b3-8c34-e46062a4a865;1
+6;277;"the cast members ""Bewitched"" television show";775926b9-2ac8-4a8a-99f8-1d8914c815c0;2
+6;278;Mister Rogers Neighborhood song lyrics;daadd429-73b9-4b0e-b4cb-066d360856b8;2
+6;282;interplanetary missions of NASA;48f4ecf4-1c66-4703-94a6-715f584dee08;2
+6;284;where to find morel mushrooms;431039a4-ec53-438a-b72e-d0a605cd1b70;1
+6;285;foods with magnesium;5b6e33e5-c6f2-487e-abe4-b5ee21f391ee;2
+6;286;schizophrenia treatment drugs;d9b3a03d-8348-42a9-8ab5-7c4e3821f2bc;1
+6;287;carotid cavernous fistula treatments;4a213e14-9128-4e13-9f52-5bbbadd4a831;2
+6;289;yaga benefits for kids;9ffa33c6-e00d-41af-ba32-2272cdaf13c6;2
+6;291;cities of the region of Sangre de cristo mountains;c83e9c49-ad02-4fa3-95c1-6f9fd7e584b4;2
+6;292;the evolution of the electronic health record;8f26091e-4e3b-41be-a6ab-d6af5a190530;2
+6;293;the educational benefits of social networking sites;86c897a7-01a5-49a3-8c48-dea32b4359f4;2
+6;296;lead acid batteries recycling factory;e18577ae-a636-4703-b0cd-7b6b96c02152;2
+6;297;altitute sickness prevention;3f4c614c-799c-4db2-b72c-0d0ab26d65ba;2
+6;298;health care practices of the Jehovah's Witnesses religion;41df6ae6-0ffc-4677-a023-83d7a7496caf;2
+6;300;the mean computation;386371d6-f8ee-4893-bbc5-597ba873381f;2
+7;251;identify spider bites;d560148a-ad38-4941-93d2-75811df58e45;1
+7;252;Orcas Island;7cbee869-5eb4-4864-b074-02e5e24129a0;2
+7;253;tooth abscess traitments;e23fffd0-a53c-40ab-96bf-b50cc098f718;1
+7;255;teddy bear picnics;d61b70af-8a31-499d-acf5-ccab0cb33d12;1
+7;259;difference between carpenter bee and other bees;78d323aa-7e72-41cb-8043-cdd4806386e7;1
+7;261;folk remedies for soothing sore throat;22f85f3c-1d61-481b-9132-a3b94e1bc05d;1
+7;263;scientific theories and data on evolution;6d3181f0-eb6f-489c-a309-633b36264143;1
+7;267;Feliz Navidad song lyrics;eb830502-0a0f-4265-b5da-81ca91ebfc93;1
+7;270;sun tzu quotes;2fd3966c-84dc-4a73-8201-430afdbcb6c5;1
+7;271;halloween activities for middle-school-aged children;e03e9f25-7752-437b-9502-6ff525342587;1
+7;273;wilson's disease association;e71c6f6a-9954-4467-86a0-09474f4e7061;1
+7;274;golf schools;8206f08c-8e71-42b9-91f3-6522a78de74d;1
+7;276;african american music influence on history;4c74d3e3-a257-4ea9-ad7f-14ff5a5de233;1
+7;277;cast Bewitched;26042595-18ad-48fa-843c-25cc45d754f0;2
+7;278;Lyrics mister rogers neighborhood;d3fb9882-7593-45c6-8f68-2e4e07c584ca;2
+7;282;interplanetary NASA missions;5491e517-6b2a-4d6f-99c7-54e8c6e0e975;2
+7;284;morel mushroom best places;3442fb28-0c6b-4fb7-8f28-97fca54f90dc;1
+7;285;food with magnesium;38035481-15e5-4a8d-b1cb-25a40ee1ba47;2
+7;286;common drugs treatments for schizophrenia;faac13a9-febd-4f44-ab7a-5544b108c1bd;1
+7;287;ccft treatments;f50cac54-3d55-45b1-9276-e4a49bdfd4ba;2
+7;289;kids yoga benefits;10584087-abcb-4a9d-8fbb-c0d59107f181;2
+7;291;sangre de cristo cities;b9a42205-654b-4ac0-a14e-670359168b4c;2
+7;292;electronic medical record evolution;befcfa28-3e06-4aa2-9621-5427e6715766;2
+7;293;educational benefits of social networks;78ca8f03-cc50-49a9-aa6a-9e5e144e70d9;2
+7;296;lead acid batteries recycling places;37bb957d-5211-47f7-aab1-3715eab9c5ac;2
+7;297;prevent altitude sickness;bde79c69-1ce3-4940-90d0-5d217e46e1fc;2
+7;298;jehovah's witnesses members medical practices;f81acc5a-2b07-4b47-baf7-9798a3413dc1;2
+7;300;compute mean of a set number;9c9136cd-0bb1-414c-bff6-52b69f3e10a6;2
+8;251;identifying spider bites;cd0e7f46-c505-4ba2-8877-9c5050928e5f;1
+8;252;orcas island;1eb075d4-eda0-4c58-b766-c1e643bced87;2
+8;253;tooth abscess treatment;9b977318-f379-4e9d-8d3b-080b1df6ded2;1
+8;255;teddy bear picnics;1253d35b-cfe9-4476-a195-75ea3ba710ca;1
+8;259;identify carpenter bee;f1b8b594-700c-4f22-8a81-ec28269af4dc;1
+8;261;folk remedies for sore throat;26d8acb7-be2c-463d-bbce-81afec72a46e;1
+8;263;theory of evolution evidence;8d5f3111-bb4a-482a-b17c-1551bf309af0;1
+8;267;feliz navidad lyrics;c3e38218-7db4-43a1-a1b5-20f528a180ac;1
+8;270;sun tzu quotes;8027986a-3ea4-481a-b8a2-134d79137be7;1
+8;271;halloween activities for middle school;2e30f717-ac9d-4df7-a851-3c81d3d6863d;1
+8;273;wilson disease association;440757b7-5c26-4924-9461-0226651068b4;1
+8;274;golf schools;af9f2a53-deb7-405b-bd56-f6c614c2f0d2;1
+8;276;impact on history of african american music;234a9967-0f89-4696-952f-5c3a0db05b2d;1
+8;277;bewitched cast;c68eebc0-6585-4741-b073-c1d09f2bde1a;2
+8;278;mister rogers neighborhood lyrics;34cc3945-6393-498b-ac2e-b44aa0d87636;2
+8;282;nasa interplanetary missons;125e3bfa-04d2-41c2-848d-579fd1f2fce4;2
+8;284;where to find morel mushrooms;5a707c1b-7835-41b3-839a-25c8de29f37e;1
+8;285;food high in magnesium;21f09a4e-9747-4e63-a73c-64a24a663f78;2
+8;286;common schizophrenia treatment drugs;a667b07e-4ccd-478e-b9f8-0fbc9b0cff6d;1
+8;287;carotid cavernous fistula treatment;16d754ae-f335-4e97-b434-31f768e96eb9;2
+8;289;is yoga good for kids;86205b18-0b14-46fc-882e-57c566e578f3;2
+8;291;tourism sangre de cristo mountains;db89b112-6e60-44b7-bfc0-1bc4ccd6cac6;2
+8;292;electronic medical record evolution;dac88bc5-333b-4ff2-ba0e-1d6c339fc2c2;2
+8;293;educational benefits of social networking sites;89572fb0-b3b2-42f0-8551-4578ff019504;2
+8;296;where to recycle lead batteries;a757252e-22ae-4604-b10a-bc00e8e6072b;2
+8;297;prevent altitude sickness;807c480f-0774-41bb-a7b1-92ead1f147b0;2
+8;298;jehovah's witnesses health practices;e3f89d29-0932-468a-97ad-f77037dceff5;2
+8;300;find mean;c7e56d2a-d492-4ce9-8405-f0834441cc30;2
+9;251;identify spider bites;8a15182c-a060-4b08-80e7-bfca60f8295c;1
+9;252;orcas island history;89af6f01-3941-4e9d-be12-7563e821576d;2
+9;253;treat tooth abscess;de87120c-f30a-44dc-9d55-b039770a9f6b;1
+9;255;teddy bear picnic;4406cee9-fe1c-4c60-9d04-04611edc2e90;1
+9;259;carpenter bee vs bee;73d13ea4-77b8-4581-b028-dfcec41b1887;1
+9;261;folk remedies sore throat;1d211de7-b7b7-4286-a4d4-0b11b8c3dc5a;1
+9;263;evidence for evolution;57285b95-d53f-49c9-9133-1cc7a029f4c6;1
+9;267;feliz navidad lyrics;90d98427-132a-4e3e-921d-8f368426763f;1
+9;270;sun tzu quotes;089c22f9-35be-45b9-ba20-2cbe34083be9;1
+9;271;halloween activities for middle school;27a63756-a19e-4bc2-8ee9-5253eaf1cd49;1
+9;273;wilson|s disease web site;a6e40331-bf53-483a-bab7-cc94d8ddef90;1
+9;274;golf school;e556388f-acc1-4dac-8d47-1bc70958ee48;1
+9;276;african american music influences;27572aff-ff87-4728-b596-f8c38cf536bd;1
+9;277;cast bewitched;9dced636-8fa1-4abe-a3e8-6627da3864c3;2
+9;278;lyrics mister rogers neighborhood;82e7af99-f0c9-4fcc-a5f1-6a36dbd1929d;2
+9;282;interplanetary missions nasa;81e31888-f385-452d-9d56-2c8208576c24;2
+9;284;find morel;14eba3e3-f9ec-4d23-9c1f-9baedd5f713c;1
+9;285;food magnesium;202f9391-6bc1-43ca-88ef-93bbc9754953;2
+9;286;drugs against schizophrenia;2f28fd7c-5db7-4bc4-ae5c-57c84fcc1b10;1
+9;287;treat carotid cavernous fistula;2447a261-c569-46b7-9adf-30b669c8e1ad;2
+9;289;benefits yoga kid;8ade813b-d5ba-4a6f-97f0-050647b5f1c4;2
+9;291;Sangre de Cristo mountains cities;1f52ce4f-b2be-4fdd-ba6b-25ebba240deb;2
+9;292;electronic health record history;3c9ebb94-d2fe-4683-be93-2c0e09ad73e8;2
+9;293;educational benefits social networks;0463d8ee-a00c-4315-b63f-23bd9b63a9dc;2
+9;296;"recycle ""lead acid battery""";12bf6ac4-0938-4fe4-8b59-4247fa3941b1;2
+9;297;prevent altitude sickness;15134a3e-3213-4cf3-83e5-5903a84e3bbd;2
+9;298;Jehovah health;7eb185bd-783f-4740-8d7b-4288a88f0454;2
+9;300;mean set numbers;69e3aeae-4565-4c3a-9fb1-a57cb5ac6af2;2
